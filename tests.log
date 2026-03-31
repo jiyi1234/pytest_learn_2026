@@ -1,0 +1,1057 @@
+2026-03-31 16:09:45,489/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:43]-INFO:Server IP: 192.168.1.100
+2026-03-31 16:09:45,490/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:44]-INFO:Server port: 8888
+2026-03-31 16:09:45,490/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:45]-INFO:Server env tags: test
+2026-03-31 16:10:59,654/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:43]-INFO:Server IP: 192.168.1.100
+2026-03-31 16:10:59,654/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:44]-INFO:Server port: 8888
+2026-03-31 16:10:59,654/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:45]-INFO:Server env tags: test
+2026-03-31 16:14:52,426/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:43]-INFO:Server IP: 192.168.1.100
+2026-03-31 16:14:52,428/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:44]-INFO:Server port: 8888
+2026-03-31 16:14:52,428/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:45]-INFO:Server env tags: test
+2026-03-31 16:17:19,106/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:43]-INFO:Server IP: [fdbd:dccd:cde2:2002:0:d92a:4184:f02]
+2026-03-31 16:17:19,107/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:44]-INFO:Server port: 10201
+2026-03-31 16:17:19,107/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:45]-INFO:Server env tags: boe_check_case
+2026-03-31 16:18:39,646/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:43]-INFO:Server IP: [fdbd:dccd:cde2:2002:0:d92a:4184:f02]
+2026-03-31 16:18:39,651/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:44]-INFO:Server port: 10201
+2026-03-31 16:18:39,651/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:45]-INFO:Server env tags: boe_check_case
+2026-03-31 16:18:39,652/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-03-31 16:18:39,652/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-03-31 16:18:39,652/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-03-31 16:18:39,652/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/=web/dataset/listweb/dataset/list?aadvid=1&req_src=events_manager
+2026-03-31 16:18:39,652/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-03-31 16:18:39,667/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-03-31 16:18:40,629/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_make_request[Line:544]-DEBUG:http://fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201 "GET /i18n/events_manager/v2/api/custom_conversion/=web/dataset/listweb/dataset/list?aadvid=1&req_src=events_manager HTTP/1.1" 404 18
+2026-03-31 16:18:40,700/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-03-31 16:18:40,700/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-03-31 16:18:40,700/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-03-31 16:18:40,700/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/=web/dataset/listweb/dataset/list?aadvid=75960823018&req_src=events_manager
+2026-03-31 16:18:40,700/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-03-31 16:18:40,701/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-03-31 16:18:41,424/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_make_request[Line:544]-DEBUG:http://fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201 "GET /i18n/events_manager/v2/api/custom_conversion/=web/dataset/listweb/dataset/list?aadvid=75960823018&req_src=events_manager HTTP/1.1" 404 18
+2026-03-31 16:19:33,771/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:43]-INFO:Server IP: [fdbd:dccd:cde2:2002:0:d92a:4184:f02]
+2026-03-31 16:19:33,772/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:44]-INFO:Server port: 10201
+2026-03-31 16:19:33,772/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:45]-INFO:Server env tags: boe_check_case
+2026-03-31 16:19:33,775/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-03-31 16:19:33,775/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-03-31 16:19:33,776/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-03-31 16:19:33,776/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/listweb/dataset/list?aadvid=1&req_src=events_manager
+2026-03-31 16:19:33,776/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-03-31 16:19:33,796/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-03-31 16:19:34,733/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_make_request[Line:544]-DEBUG:http://fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201 "GET /i18n/events_manager/v2/api/custom_conversion/web/dataset/listweb/dataset/list?aadvid=1&req_src=events_manager HTTP/1.1" 404 18
+2026-03-31 16:19:34,780/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-03-31 16:19:34,781/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-03-31 16:19:34,781/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-03-31 16:19:34,781/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/listweb/dataset/list?aadvid=75960823018&req_src=events_manager
+2026-03-31 16:19:34,781/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-03-31 16:19:34,782/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-03-31 16:19:35,492/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_make_request[Line:544]-DEBUG:http://fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201 "GET /i18n/events_manager/v2/api/custom_conversion/web/dataset/listweb/dataset/list?aadvid=75960823018&req_src=events_manager HTTP/1.1" 404 18
+2026-03-31 16:20:49,735/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:43]-INFO:Server IP: [fdbd:dccd:cde2:2002:0:d92a:4184:f02]
+2026-03-31 16:20:49,736/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:44]-INFO:Server port: 10201
+2026-03-31 16:20:49,736/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:45]-INFO:Server env tags: boe_check_case
+2026-03-31 16:20:49,738/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-03-31 16:20:49,738/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-03-31 16:20:49,739/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-03-31 16:20:49,739/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/list?aadvid=1&req_src=events_manager
+2026-03-31 16:20:49,739/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-03-31 16:20:49,758/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-03-31 16:20:50,475/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_make_request[Line:544]-DEBUG:http://fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201 "GET /i18n/events_manager/v2/api/custom_conversion/web/dataset/list?aadvid=1&req_src=events_manager HTTP/1.1" 401 173
+2026-03-31 16:20:50,477/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:46]-INFO:Response text: {'code': 1400103, 'message': 'unable to access adv(1). err: biz error: code=2901, msg=not any access permission : invalid advertiser', 'starlingKey': 'ADV_NOT_FOUND', 'data': None}
+2026-03-31 16:20:50,478/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:47]-INFO:response header: {'Server': 'hertz', 'Date': 'Tue, 31 Mar 2026 08:20:50 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '173', 'X-Tt-Logid': '021774945250298fdbddccdcde220020000d92a41840f02aa4700'}
+2026-03-31 16:20:50,478/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:48]-INFO:response log_id: None
+2026-03-31 16:20:50,518/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-03-31 16:20:50,518/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-03-31 16:20:50,518/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-03-31 16:20:50,518/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/list?aadvid=75960823018&req_src=events_manager
+2026-03-31 16:20:50,518/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-03-31 16:20:50,519/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-03-31 16:20:51,226/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_make_request[Line:544]-DEBUG:http://fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201 "GET /i18n/events_manager/v2/api/custom_conversion/web/dataset/list?aadvid=75960823018&req_src=events_manager HTTP/1.1" 200 97
+2026-03-31 16:20:51,228/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:46]-INFO:Response text: {'code': 1400102, 'message': 'page_count: invalid params', 'starlingKey': 'PARAM_INVALID', 'data': None}
+2026-03-31 16:20:51,228/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:47]-INFO:response header: {'Server': 'hertz', 'Date': 'Tue, 31 Mar 2026 08:20:50 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '97', 'X-Tt-Logid': '021774945251052fdbddccdcde220020000d92a41840f02fa1c8a'}
+2026-03-31 16:20:51,229/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:48]-INFO:response log_id: None
+2026-03-31 16:26:06,056/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:43]-INFO:Server IP: [fdbd:dccd:cde2:2002:0:d92a:4184:f02]
+2026-03-31 16:26:06,061/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:44]-INFO:Server port: 10201
+2026-03-31 16:26:06,062/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:45]-INFO:Server env tags: boe_check_case
+2026-03-31 16:26:06,064/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-03-31 16:26:06,065/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-03-31 16:26:06,065/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-03-31 16:26:06,065/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/list?aadvid=1&req_src=events_manager
+2026-03-31 16:26:06,065/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-03-31 16:26:06,079/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-03-31 16:26:06,846/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_make_request[Line:544]-DEBUG:http://fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201 "GET /i18n/events_manager/v2/api/custom_conversion/web/dataset/list?aadvid=1&req_src=events_manager HTTP/1.1" 401 173
+2026-03-31 16:26:06,848/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:46]-INFO:Response text: {'code': 1400103, 'message': 'unable to access adv(1). err: biz error: code=2901, msg=not any access permission : invalid advertiser', 'starlingKey': 'ADV_NOT_FOUND', 'data': None}
+2026-03-31 16:26:06,848/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:47]-INFO:response header: {'Server': 'hertz', 'Date': 'Tue, 31 Mar 2026 08:26:06 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '173', 'X-Tt-Logid': '021774945566662fdbddccdcde220020000d92a41840f0234f40a'}
+2026-03-31 16:26:06,848/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:48]-INFO:response log_id: None
+2026-03-31 16:26:06,892/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-03-31 16:26:06,892/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-03-31 16:26:06,892/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-03-31 16:26:06,892/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/list?aadvid=75960823018&req_src=events_manager
+2026-03-31 16:26:06,892/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-03-31 16:26:06,893/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-03-31 16:26:08,066/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_make_request[Line:544]-DEBUG:http://fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201 "GET /i18n/events_manager/v2/api/custom_conversion/web/dataset/list?aadvid=75960823018&req_src=events_manager HTTP/1.1" 200 97
+2026-03-31 16:26:08,068/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:46]-INFO:Response text: {'code': 1400102, 'message': 'page_count: invalid params', 'starlingKey': 'PARAM_INVALID', 'data': None}
+2026-03-31 16:26:08,070/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:47]-INFO:response header: {'Server': 'hertz', 'Date': 'Tue, 31 Mar 2026 08:26:07 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '97', 'X-Tt-Logid': '021774945567891fdbddccdcde220020000d92a41840f023a5401'}
+2026-03-31 16:26:08,071/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:48]-INFO:response log_id: None
+2026-03-31 16:28:59,706/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:43]-INFO:Server IP: [fdbd:dccd:cde2:2002:0:d92a:4184:f02]
+2026-03-31 16:28:59,708/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:44]-INFO:Server port: 10201
+2026-03-31 16:28:59,708/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:45]-INFO:Server env tags: boe_check_case
+2026-03-31 16:28:59,714/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-03-31 16:28:59,714/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-03-31 16:28:59,714/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-03-31 16:28:59,714/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/list?aadvid=1&req_src=events_manager
+2026-03-31 16:28:59,715/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-03-31 16:28:59,751/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-03-31 16:29:00,697/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_make_request[Line:544]-DEBUG:http://fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201 "GET /i18n/events_manager/v2/api/custom_conversion/web/dataset/list?aadvid=1&req_src=events_manager HTTP/1.1" 401 173
+2026-03-31 16:29:00,699/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:46]-INFO:Response text: {'code': 1400103, 'message': 'unable to access adv(1). err: biz error: code=2901, msg=not any access permission : invalid advertiser', 'starlingKey': 'ADV_NOT_FOUND', 'data': None}
+2026-03-31 16:29:00,699/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:47]-INFO:response header: {'Server': 'hertz', 'Date': 'Tue, 31 Mar 2026 08:28:59 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '173', 'X-Tt-Logid': '021774945740306fdbddccdcde220020000d92a41840f02dd521b'}
+2026-03-31 16:29:00,699/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:48]-INFO:response log_id: None
+2026-03-31 16:29:00,739/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-03-31 16:29:00,739/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-03-31 16:29:00,739/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-03-31 16:29:00,739/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/list?aadvid=75960823018&req_src=events_manager
+2026-03-31 16:29:00,739/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-03-31 16:29:00,740/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-03-31 16:29:01,466/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_make_request[Line:544]-DEBUG:http://fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201 "GET /i18n/events_manager/v2/api/custom_conversion/web/dataset/list?aadvid=75960823018&req_src=events_manager HTTP/1.1" 200 97
+2026-03-31 16:29:01,467/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:46]-INFO:Response text: {'code': 1400102, 'message': 'page_count: invalid params', 'starlingKey': 'PARAM_INVALID', 'data': None}
+2026-03-31 16:29:01,467/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:47]-INFO:response header: {'Server': 'hertz', 'Date': 'Tue, 31 Mar 2026 08:29:00 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '97', 'X-Tt-Logid': '021774945741274fdbddccdcde220020000d92a41840f02e569bf'}
+2026-03-31 16:29:01,467/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:48]-INFO:response log_id: None
+2026-03-31 16:29:31,821/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:43]-INFO:Server IP: [fdbd:dccd:cde2:2002:0:d92a:4184:f02]
+2026-03-31 16:29:31,823/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:44]-INFO:Server port: 10201
+2026-03-31 16:29:31,823/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:45]-INFO:Server env tags: boe_check_case
+2026-03-31 16:29:31,827/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-03-31 16:29:31,828/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-03-31 16:29:31,828/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-03-31 16:29:31,828/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/list?aadvid=1&req_src=events_manager
+2026-03-31 16:29:31,828/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-03-31 16:29:31,845/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-03-31 16:29:32,535/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_make_request[Line:544]-DEBUG:http://fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201 "GET /i18n/events_manager/v2/api/custom_conversion/web/dataset/list?aadvid=1&req_src=events_manager HTTP/1.1" 401 173
+2026-03-31 16:29:32,537/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:46]-INFO:Response text: {'code': 1400103, 'message': 'unable to access adv(1). err: biz error: code=2901, msg=not any access permission : invalid advertiser', 'starlingKey': 'ADV_NOT_FOUND', 'data': None}
+2026-03-31 16:29:32,538/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:47]-INFO:response header: {'Server': 'hertz', 'Date': 'Tue, 31 Mar 2026 08:29:31 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '173', 'X-Tt-Logid': '021774945772364fdbddccdcde220020000d92a41840f02a3e0e6'}
+2026-03-31 16:29:32,539/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:48]-INFO:response log_id: None
+2026-03-31 16:29:32,581/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-03-31 16:29:32,581/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-03-31 16:29:32,582/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-03-31 16:29:32,582/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/list?aadvid=75960823018&req_src=events_manager
+2026-03-31 16:29:32,582/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-03-31 16:29:32,583/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-03-31 16:29:33,449/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_make_request[Line:544]-DEBUG:http://fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201 "GET /i18n/events_manager/v2/api/custom_conversion/web/dataset/list?aadvid=75960823018&req_src=events_manager HTTP/1.1" 200 97
+2026-03-31 16:29:33,450/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:46]-INFO:Response text: {'code': 1400102, 'message': 'page_count: invalid params', 'starlingKey': 'PARAM_INVALID', 'data': None}
+2026-03-31 16:29:33,450/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:47]-INFO:response header: {'Server': 'hertz', 'Date': 'Tue, 31 Mar 2026 08:29:32 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '97', 'X-Tt-Logid': '021774945773166fdbddccdcde220020000d92a41840f02be7b7c'}
+2026-03-31 16:29:33,451/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:48]-INFO:response log_id: None
+2026-03-31 16:34:47,131/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:43]-INFO:Server IP: [fdbd:dccd:cde2:2002:0:d92a:4184:f02]
+2026-03-31 16:34:47,132/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:44]-INFO:Server port: 10201
+2026-03-31 16:34:47,132/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:45]-INFO:Server env tags: boe_check_case
+2026-03-31 16:34:47,137/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-03-31 16:34:47,137/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-03-31 16:34:47,137/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-03-31 16:34:47,137/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/list?aadvid=1&req_src=events_manager
+2026-03-31 16:34:47,137/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-03-31 16:34:47,153/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-03-31 16:34:47,895/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_make_request[Line:544]-DEBUG:http://fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201 "GET /i18n/events_manager/v2/api/custom_conversion/web/dataset/list?aadvid=1&req_src=events_manager HTTP/1.1" 401 173
+2026-03-31 16:34:47,895/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:46]-INFO:Response text: {'code': 1400103, 'message': 'unable to access adv(1). err: biz error: code=2901, msg=not any access permission : invalid advertiser', 'starlingKey': 'ADV_NOT_FOUND', 'data': None}
+2026-03-31 16:34:47,896/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:47]-INFO:response header: {'Server': 'hertz', 'Date': 'Tue, 31 Mar 2026 08:34:47 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '173', 'X-Tt-Logid': '021774946087713fdbddccdcde220020000d92a41840f02d70458'}
+2026-03-31 16:34:47,896/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:48]-INFO:response log_id: None
+2026-03-31 16:34:47,937/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-03-31 16:34:47,937/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-03-31 16:34:47,937/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-03-31 16:34:47,937/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/list?aadvid=75960823018&req_src=events_manager
+2026-03-31 16:34:47,937/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-03-31 16:34:47,938/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-03-31 16:34:48,644/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_make_request[Line:544]-DEBUG:http://fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201 "GET /i18n/events_manager/v2/api/custom_conversion/web/dataset/list?aadvid=75960823018&req_src=events_manager HTTP/1.1" 200 97
+2026-03-31 16:34:48,646/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:46]-INFO:Response text: {'code': 1400102, 'message': 'page_count: invalid params', 'starlingKey': 'PARAM_INVALID', 'data': None}
+2026-03-31 16:34:48,646/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:47]-INFO:response header: {'Server': 'hertz', 'Date': 'Tue, 31 Mar 2026 08:34:47 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '97', 'X-Tt-Logid': '021774946088462fdbddccdcde220020000d92a41840f02072e36'}
+2026-03-31 16:34:48,646/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:48]-INFO:response log_id: None
+2026-03-31 16:35:25,667/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:43]-INFO:Server IP: [fdbd:dccd:cde2:2002:0:d92a:4184:f02]
+2026-03-31 16:35:25,668/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:44]-INFO:Server port: 10201
+2026-03-31 16:35:25,668/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:45]-INFO:Server env tags: boe_check_case
+2026-03-31 16:35:25,670/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-03-31 16:35:25,670/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-03-31 16:35:25,670/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-03-31 16:35:25,670/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/list?aadvid=1&req_src=events_manager
+2026-03-31 16:35:25,671/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-03-31 16:35:25,688/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-03-31 16:35:26,401/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_make_request[Line:544]-DEBUG:http://fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201 "GET /i18n/events_manager/v2/api/custom_conversion/web/dataset/list?aadvid=1&req_src=events_manager HTTP/1.1" 401 173
+2026-03-31 16:35:26,403/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:46]-INFO:Response text: {'code': 1400103, 'message': 'unable to access adv(1). err: biz error: code=2901, msg=not any access permission : invalid advertiser', 'starlingKey': 'ADV_NOT_FOUND', 'data': None}
+2026-03-31 16:35:26,403/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:47]-INFO:response header: {'Server': 'hertz', 'Date': 'Tue, 31 Mar 2026 08:35:25 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '173', 'X-Tt-Logid': '021774946126213fdbddccdcde220020000d92a41840f020b6253'}
+2026-03-31 16:35:26,403/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:48]-INFO:response log_id: None
+2026-03-31 16:35:26,444/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-03-31 16:35:26,445/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-03-31 16:35:26,445/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-03-31 16:35:26,445/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/list?aadvid=75960823018&req_src=events_manager
+2026-03-31 16:35:26,445/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-03-31 16:35:26,445/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-03-31 16:35:27,315/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_make_request[Line:544]-DEBUG:http://fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201 "GET /i18n/events_manager/v2/api/custom_conversion/web/dataset/list?aadvid=75960823018&req_src=events_manager HTTP/1.1" 200 97
+2026-03-31 16:35:27,317/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:46]-INFO:Response text: {'code': 1400102, 'message': 'page_count: invalid params', 'starlingKey': 'PARAM_INVALID', 'data': None}
+2026-03-31 16:35:27,318/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:47]-INFO:response header: {'Server': 'hertz', 'Date': 'Tue, 31 Mar 2026 08:35:26 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '97', 'X-Tt-Logid': '021774946127015fdbddccdcde220020000d92a41840f024d0dcd'}
+2026-03-31 16:35:27,318/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:48]-INFO:response log_id: None
+2026-03-31 16:42:05,569/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:46]-INFO:Server IP: [fdbd:dccd:cde2:2002:0:d92a:4184:f02]
+2026-03-31 16:42:05,570/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:47]-INFO:Server port: 10201
+2026-03-31 16:42:05,571/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:48]-INFO:Server env tags: boe_check_case
+2026-03-31 16:42:05,578/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-03-31 16:42:05,578/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-03-31 16:42:05,578/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-03-31 16:42:05,578/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/list?aadvid=1&req_src=events_manager
+2026-03-31 16:42:05,578/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-03-31 16:42:05,607/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-03-31 16:42:06,283/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_make_request[Line:544]-DEBUG:http://fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201 "GET /i18n/events_manager/v2/api/custom_conversion/web/dataset/list?aadvid=1&req_src=events_manager HTTP/1.1" 401 173
+2026-03-31 16:42:06,284/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:46]-INFO:Response text: {'code': 1400103, 'message': 'unable to access adv(1). err: biz error: code=2901, msg=not any access permission : invalid advertiser', 'starlingKey': 'ADV_NOT_FOUND', 'data': None}
+2026-03-31 16:42:06,285/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:47]-INFO:response header: {'Server': 'hertz', 'Date': 'Tue, 31 Mar 2026 08:42:05 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '173', 'X-Tt-Logid': '021774946526108fdbddccdcde220020000d92a41840f0252a9a9'}
+2026-03-31 16:42:06,285/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:48]-INFO:response log_id: None
+2026-03-31 16:42:06,327/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-03-31 16:42:06,328/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-03-31 16:42:06,328/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-03-31 16:42:06,328/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/list?aadvid=75960823018&req_src=events_manager
+2026-03-31 16:42:06,328/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-03-31 16:42:06,328/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-03-31 16:42:07,236/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_make_request[Line:544]-DEBUG:http://fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201 "GET /i18n/events_manager/v2/api/custom_conversion/web/dataset/list?aadvid=75960823018&req_src=events_manager HTTP/1.1" 200 97
+2026-03-31 16:42:07,237/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:46]-INFO:Response text: {'code': 1400102, 'message': 'page_count: invalid params', 'starlingKey': 'PARAM_INVALID', 'data': None}
+2026-03-31 16:42:07,238/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:47]-INFO:response header: {'Server': 'hertz', 'Date': 'Tue, 31 Mar 2026 08:42:06 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '97', 'X-Tt-Logid': '021774946527058fdbddccdcde220020000d92a41840f02b8fb91'}
+2026-03-31 16:42:07,238/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:48]-INFO:response log_id: None
+2026-03-31 16:46:03,132/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:46]-INFO:Server IP: [fdbd:dccd:cde2:2002:0:d92a:4184:f02]
+2026-03-31 16:46:03,133/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:47]-INFO:Server port: 10201
+2026-03-31 16:46:03,133/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:48]-INFO:Server env tags: boe_check_case
+2026-03-31 16:46:03,138/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-03-31 16:46:03,138/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-03-31 16:46:03,139/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-03-31 16:46:03,141/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/list?aadvid=1&req_src=events_manager
+2026-03-31 16:46:03,141/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-03-31 16:46:03,154/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-03-31 16:46:03,950/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_make_request[Line:544]-DEBUG:http://fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201 "GET /i18n/events_manager/v2/api/custom_conversion/web/dataset/list?aadvid=1&req_src=events_manager HTTP/1.1" 401 173
+2026-03-31 16:46:03,951/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:46]-INFO:Response text: {'code': 1400103, 'message': 'unable to access adv(1). err: biz error: code=2901, msg=not any access permission : invalid advertiser', 'starlingKey': 'ADV_NOT_FOUND', 'data': None}
+2026-03-31 16:46:03,951/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:47]-INFO:response header: {'Server': 'hertz', 'Date': 'Tue, 31 Mar 2026 08:46:03 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '173', 'X-Tt-Logid': '021774946763680fdbddccdcde220020000d92a41840f02a7760d'}
+2026-03-31 16:46:03,951/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:48]-INFO:response log_id: None
+2026-03-31 16:46:03,980/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-03-31 16:46:03,980/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-03-31 16:46:03,980/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-03-31 16:46:03,980/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/list?aadvid=75960823018&req_src=events_manager
+2026-03-31 16:46:03,980/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-03-31 16:46:03,980/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-03-31 16:46:05,008/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_make_request[Line:544]-DEBUG:http://fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201 "GET /i18n/events_manager/v2/api/custom_conversion/web/dataset/list?aadvid=75960823018&req_src=events_manager HTTP/1.1" 200 97
+2026-03-31 16:46:05,009/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:46]-INFO:Response text: {'code': 1400102, 'message': 'page_count: invalid params', 'starlingKey': 'PARAM_INVALID', 'data': None}
+2026-03-31 16:46:05,010/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:47]-INFO:response header: {'Server': 'hertz', 'Date': 'Tue, 31 Mar 2026 08:46:04 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '97', 'X-Tt-Logid': '021774946764832fdbddccdcde220020000d92a41840f0293f212'}
+2026-03-31 16:46:05,010/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:48]-INFO:response log_id: None
+2026-03-31 16:47:21,066/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:46]-INFO:Server IP: [fdbd:dccd:cde2:2002:0:d92a:4184:f02]
+2026-03-31 16:47:21,066/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:47]-INFO:Server port: 10201
+2026-03-31 16:47:21,067/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:48]-INFO:Server env tags: boe_check_case
+2026-03-31 16:47:21,073/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-03-31 16:47:21,074/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-03-31 16:47:21,074/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-03-31 16:47:21,074/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/list?aadvid=1&req_src=events_manager
+2026-03-31 16:47:21,074/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-03-31 16:47:21,086/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-03-31 16:47:22,015/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_make_request[Line:544]-DEBUG:http://fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201 "GET /i18n/events_manager/v2/api/custom_conversion/web/dataset/list?aadvid=1&req_src=events_manager HTTP/1.1" 401 173
+2026-03-31 16:47:22,016/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:46]-INFO:Response text: {'code': 1400103, 'message': 'unable to access adv(1). err: biz error: code=2901, msg=not any access permission : invalid advertiser', 'starlingKey': 'ADV_NOT_FOUND', 'data': None}
+2026-03-31 16:47:22,017/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:47]-INFO:response header: {'Server': 'hertz', 'Date': 'Tue, 31 Mar 2026 08:47:21 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '173', 'X-Tt-Logid': '021774946841595fdbddccdcde220020000d92a41840f02498a18'}
+2026-03-31 16:47:22,017/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:48]-INFO:response log_id: None
+2026-03-31 16:47:22,059/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-03-31 16:47:22,059/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-03-31 16:47:22,059/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-03-31 16:47:22,060/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/list?aadvid=75960823018&req_src=events_manager
+2026-03-31 16:47:22,060/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-03-31 16:47:22,060/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-03-31 16:47:22,830/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_make_request[Line:544]-DEBUG:http://fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201 "GET /i18n/events_manager/v2/api/custom_conversion/web/dataset/list?aadvid=75960823018&req_src=events_manager HTTP/1.1" 200 97
+2026-03-31 16:47:22,832/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:46]-INFO:Response text: {'code': 1400102, 'message': 'page_count: invalid params', 'starlingKey': 'PARAM_INVALID', 'data': None}
+2026-03-31 16:47:22,833/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:47]-INFO:response header: {'Server': 'hertz', 'Date': 'Tue, 31 Mar 2026 08:47:22 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '97', 'X-Tt-Logid': '021774946842639fdbddccdcde220020000d92a41840f0213a543'}
+2026-03-31 16:47:22,833/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:48]-INFO:response log_id: None
+2026-03-31 16:58:25,672/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:46]-INFO:Server IP: [fdbd:dccd:cde2:2002:0:d92a:4184:f02]
+2026-03-31 16:58:25,674/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:47]-INFO:Server port: 10201
+2026-03-31 16:58:25,674/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:48]-INFO:Server env tags: boe_check_case
+2026-03-31 16:58:25,680/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-03-31 16:58:25,680/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-03-31 16:58:25,681/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-03-31 16:58:25,681/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/list?aadvid=1&req_src=events_manager
+2026-03-31 16:58:25,681/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-03-31 16:58:25,710/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-03-31 16:58:26,558/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_make_request[Line:544]-DEBUG:http://fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201 "GET /i18n/events_manager/v2/api/custom_conversion/web/dataset/list?aadvid=1&req_src=events_manager HTTP/1.1" 401 173
+2026-03-31 16:58:26,559/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:46]-INFO:Response text: {'code': 1400103, 'message': 'unable to access adv(1). err: biz error: code=2901, msg=not any access permission : invalid advertiser', 'starlingKey': 'ADV_NOT_FOUND', 'data': None}
+2026-03-31 16:58:26,560/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:47]-INFO:response header: {'Server': 'hertz', 'Date': 'Tue, 31 Mar 2026 08:58:25 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '173', 'X-Tt-Logid': '021774947506363fdbddccdcde220020000d92a41840f02fcffbd'}
+2026-03-31 16:58:26,560/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:48]-INFO:response log_id: None
+2026-03-31 16:58:26,597/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-03-31 16:58:26,597/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-03-31 16:58:26,597/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-03-31 16:58:26,597/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/list?aadvid=75960823018&req_src=events_manager
+2026-03-31 16:58:26,597/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-03-31 16:58:26,598/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-03-31 16:58:27,602/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_make_request[Line:544]-DEBUG:http://fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201 "GET /i18n/events_manager/v2/api/custom_conversion/web/dataset/list?aadvid=75960823018&req_src=events_manager HTTP/1.1" 200 97
+2026-03-31 16:58:27,603/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:46]-INFO:Response text: {'code': 1400102, 'message': 'page_count: invalid params', 'starlingKey': 'PARAM_INVALID', 'data': None}
+2026-03-31 16:58:27,604/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:47]-INFO:response header: {'Server': 'hertz', 'Date': 'Tue, 31 Mar 2026 08:58:26 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '97', 'X-Tt-Logid': '021774947507366fdbddccdcde220020000d92a41840f0265d0bf'}
+2026-03-31 16:58:27,604/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:48]-INFO:response log_id: None
+2026-03-31 17:00:02,645/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:46]-INFO:Server IP: [fdbd:dccd:cde2:2002:0:d92a:4184:f02]
+2026-03-31 17:00:02,646/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:47]-INFO:Server port: 10201
+2026-03-31 17:00:02,647/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:48]-INFO:Server env tags: boe_check_case
+2026-03-31 17:00:02,655/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-03-31 17:00:02,655/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-03-31 17:00:02,655/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-03-31 17:00:02,656/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/list?aadvid=1&req_src=events_manager
+2026-03-31 17:00:02,656/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-03-31 17:00:02,672/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-03-31 17:00:03,748/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_make_request[Line:544]-DEBUG:http://fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201 "GET /i18n/events_manager/v2/api/custom_conversion/web/dataset/list?aadvid=1&req_src=events_manager HTTP/1.1" 401 173
+2026-03-31 17:00:03,750/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:46]-INFO:Response text: {'code': 1400103, 'message': 'unable to access adv(1). err: biz error: code=2901, msg=not any access permission : invalid advertiser', 'starlingKey': 'ADV_NOT_FOUND', 'data': None}
+2026-03-31 17:00:03,751/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:47]-INFO:response header: {'Server': 'hertz', 'Date': 'Tue, 31 Mar 2026 09:00:02 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '173', 'X-Tt-Logid': '021774947603496fdbddccdcde220020000d92a41840f028ab768'}
+2026-03-31 17:00:03,751/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:48]-INFO:response log_id: None
+2026-03-31 17:00:03,792/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-03-31 17:00:03,792/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-03-31 17:00:03,792/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-03-31 17:00:03,792/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/list?aadvid=75960823018&req_src=events_manager
+2026-03-31 17:00:03,792/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-03-31 17:00:03,793/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-03-31 17:00:04,476/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_make_request[Line:544]-DEBUG:http://fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201 "GET /i18n/events_manager/v2/api/custom_conversion/web/dataset/list?aadvid=75960823018&req_src=events_manager HTTP/1.1" 200 97
+2026-03-31 17:00:04,478/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:46]-INFO:Response text: {'code': 1400102, 'message': 'page_count: invalid params', 'starlingKey': 'PARAM_INVALID', 'data': None}
+2026-03-31 17:00:04,479/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:47]-INFO:response header: {'Server': 'hertz', 'Date': 'Tue, 31 Mar 2026 09:00:03 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '97', 'X-Tt-Logid': '021774947604279fdbddccdcde220020000d92a41840f0222e56d'}
+2026-03-31 17:00:04,479/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:48]-INFO:response log_id: None
+2026-03-31 17:02:15,660/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:47]-INFO:Server IP: [fdbd:dccd:cde2:2002:0:d92a:4184:f02]
+2026-03-31 17:02:15,662/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:48]-INFO:Server port: 10201
+2026-03-31 17:02:15,663/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:49]-INFO:Server env tags: boe_check_case
+2026-03-31 17:02:15,669/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-03-31 17:02:15,669/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-03-31 17:02:15,669/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-03-31 17:02:15,670/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/list?aadvid=1&req_src=events_manager
+2026-03-31 17:02:15,670/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-03-31 17:02:15,687/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-03-31 17:02:16,405/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_make_request[Line:544]-DEBUG:http://fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201 "GET /i18n/events_manager/v2/api/custom_conversion/web/dataset/list?aadvid=1&req_src=events_manager HTTP/1.1" 401 173
+2026-03-31 17:02:16,405/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:46]-INFO:Response text: {'code': 1400103, 'message': 'unable to access adv(1). err: biz error: code=2901, msg=not any access permission : invalid advertiser', 'starlingKey': 'ADV_NOT_FOUND', 'data': None}
+2026-03-31 17:02:16,405/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:47]-INFO:response header: {'Server': 'hertz', 'Date': 'Tue, 31 Mar 2026 09:02:15 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '173', 'X-Tt-Logid': '021774947736193fdbddccdcde220020000d92a41840f023c5ec7'}
+2026-03-31 17:02:16,405/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:48]-INFO:response log_id: None
+2026-03-31 17:02:16,429/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-03-31 17:02:16,429/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-03-31 17:02:16,429/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-03-31 17:02:16,429/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/list?aadvid=75960823018&req_src=events_manager
+2026-03-31 17:02:16,429/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-03-31 17:02:16,430/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-03-31 17:02:17,358/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_make_request[Line:544]-DEBUG:http://fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201 "GET /i18n/events_manager/v2/api/custom_conversion/web/dataset/list?aadvid=75960823018&req_src=events_manager HTTP/1.1" 200 97
+2026-03-31 17:02:17,360/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:46]-INFO:Response text: {'code': 1400102, 'message': 'page_count: invalid params', 'starlingKey': 'PARAM_INVALID', 'data': None}
+2026-03-31 17:02:17,361/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:47]-INFO:response header: {'Server': 'hertz', 'Date': 'Tue, 31 Mar 2026 09:02:16 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '97', 'X-Tt-Logid': '021774947736915fdbddccdcde220020000d92a41840f02e7f4e8'}
+2026-03-31 17:02:17,361/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:48]-INFO:response log_id: None
+2026-03-31 17:04:48,120/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:47]-INFO:Server IP: [fdbd:dccd:cde2:2002:0:d92a:4184:f02]
+2026-03-31 17:04:48,122/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:48]-INFO:Server port: 10201
+2026-03-31 17:04:48,122/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:49]-INFO:Server env tags: boe_check_case
+2026-03-31 17:04:48,127/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-03-31 17:04:48,127/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-03-31 17:04:48,128/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-03-31 17:04:48,128/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/list?aadvid=1&req_src=events_manager
+2026-03-31 17:04:48,128/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-03-31 17:04:48,143/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-03-31 17:04:49,130/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_make_request[Line:544]-DEBUG:http://fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201 "GET /i18n/events_manager/v2/api/custom_conversion/web/dataset/list?aadvid=1&req_src=events_manager HTTP/1.1" 401 173
+2026-03-31 17:04:49,131/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:46]-INFO:Response text: {'code': 1400103, 'message': 'unable to access adv(1). err: biz error: code=2901, msg=not any access permission : invalid advertiser', 'starlingKey': 'ADV_NOT_FOUND', 'data': None}
+2026-03-31 17:04:49,132/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:47]-INFO:response header: {'Server': 'hertz', 'Date': 'Tue, 31 Mar 2026 09:04:47 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '173', 'X-Tt-Logid': '021774947888684fdbddccdcde220020000d92a41840f0203ae6e'}
+2026-03-31 17:04:49,132/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:48]-INFO:response log_id: None
+2026-03-31 17:04:49,172/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-03-31 17:04:49,172/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-03-31 17:04:49,172/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-03-31 17:04:49,172/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/list?aadvid=75960823018&req_src=events_manager
+2026-03-31 17:04:49,172/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-03-31 17:04:49,173/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-03-31 17:04:49,883/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_make_request[Line:544]-DEBUG:http://fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201 "GET /i18n/events_manager/v2/api/custom_conversion/web/dataset/list?aadvid=75960823018&req_src=events_manager HTTP/1.1" 200 97
+2026-03-31 17:04:49,885/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:46]-INFO:Response text: {'code': 1400102, 'message': 'page_count: invalid params', 'starlingKey': 'PARAM_INVALID', 'data': None}
+2026-03-31 17:04:49,886/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:47]-INFO:response header: {'Server': 'hertz', 'Date': 'Tue, 31 Mar 2026 09:04:49 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '97', 'X-Tt-Logid': '021774947889716fdbddccdcde220020000d92a41840f02f0c211'}
+2026-03-31 17:04:49,886/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:48]-INFO:response log_id: None
+2026-03-31 17:05:26,569/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:47]-INFO:Server IP: [fdbd:dccd:cde2:2002:0:d92a:4184:f02]
+2026-03-31 17:05:26,570/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:48]-INFO:Server port: 10201
+2026-03-31 17:05:26,570/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:49]-INFO:Server env tags: boe_check_case
+2026-03-31 17:05:26,576/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-03-31 17:05:26,577/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-03-31 17:05:26,577/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-03-31 17:05:26,577/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/list?aadvid=1&req_src=events_manager
+2026-03-31 17:05:26,577/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-03-31 17:05:26,595/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-03-31 17:05:27,310/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_make_request[Line:544]-DEBUG:http://fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201 "GET /i18n/events_manager/v2/api/custom_conversion/web/dataset/list?aadvid=1&req_src=events_manager HTTP/1.1" 401 173
+2026-03-31 17:05:27,312/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:46]-INFO:Response text: {'code': 1400103, 'message': 'unable to access adv(1). err: biz error: code=2901, msg=not any access permission : invalid advertiser', 'starlingKey': 'ADV_NOT_FOUND', 'data': None}
+2026-03-31 17:05:27,312/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:47]-INFO:response header: {'Server': 'hertz', 'Date': 'Tue, 31 Mar 2026 09:05:26 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '173', 'X-Tt-Logid': '021774947927140fdbddccdcde220020000d92a41840f02aff762'}
+2026-03-31 17:05:27,312/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:48]-INFO:response log_id: None
+2026-03-31 17:05:27,354/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-03-31 17:05:27,354/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-03-31 17:05:27,354/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-03-31 17:05:27,354/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/list?aadvid=75960823018&req_src=events_manager
+2026-03-31 17:05:27,354/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-03-31 17:05:27,355/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-03-31 17:05:28,607/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_make_request[Line:544]-DEBUG:http://fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201 "GET /i18n/events_manager/v2/api/custom_conversion/web/dataset/list?aadvid=75960823018&req_src=events_manager HTTP/1.1" 200 97
+2026-03-31 17:05:28,608/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:46]-INFO:Response text: {'code': 1400102, 'message': 'page_count: invalid params', 'starlingKey': 'PARAM_INVALID', 'data': None}
+2026-03-31 17:05:28,609/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:47]-INFO:response header: {'Server': 'hertz', 'Date': 'Tue, 31 Mar 2026 09:05:27 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '97', 'X-Tt-Logid': '021774947928439fdbddccdcde220020000d92a41840f02d2a816'}
+2026-03-31 17:05:28,609/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:48]-INFO:response log_id: None
+2026-03-31 17:06:00,371/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:47]-INFO:Server IP: [fdbd:dccd:cde2:2002:0:d92a:4184:f02]
+2026-03-31 17:06:00,372/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:48]-INFO:Server port: 10201
+2026-03-31 17:06:00,372/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:49]-INFO:Server env tags: boe_check_case
+2026-03-31 17:06:00,378/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-03-31 17:06:00,378/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-03-31 17:06:00,378/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-03-31 17:06:00,378/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/list?aadvid=1&req_src=events_manager
+2026-03-31 17:06:00,378/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-03-31 17:06:00,393/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-03-31 17:06:01,143/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_make_request[Line:544]-DEBUG:http://fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201 "GET /i18n/events_manager/v2/api/custom_conversion/web/dataset/list?aadvid=1&req_src=events_manager HTTP/1.1" 401 173
+2026-03-31 17:06:01,145/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:46]-INFO:Response text: {'code': 1400103, 'message': 'unable to access adv(1). err: biz error: code=2901, msg=not any access permission : invalid advertiser', 'starlingKey': 'ADV_NOT_FOUND', 'data': None}
+2026-03-31 17:06:01,146/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:47]-INFO:response header: {'Server': 'hertz', 'Date': 'Tue, 31 Mar 2026 09:06:00 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '173', 'X-Tt-Logid': '021774947960977fdbddccdcde220020000d92a41840f02dadac6'}
+2026-03-31 17:06:01,146/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:48]-INFO:response log_id: None
+2026-03-31 17:06:01,189/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-03-31 17:06:01,190/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-03-31 17:06:01,190/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-03-31 17:06:01,190/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/list?aadvid=75960823018&req_src=events_manager
+2026-03-31 17:06:01,190/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-03-31 17:06:01,191/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-03-31 17:06:01,995/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_make_request[Line:544]-DEBUG:http://fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201 "GET /i18n/events_manager/v2/api/custom_conversion/web/dataset/list?aadvid=75960823018&req_src=events_manager HTTP/1.1" 200 97
+2026-03-31 17:06:01,997/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:46]-INFO:Response text: {'code': 1400102, 'message': 'page_count: invalid params', 'starlingKey': 'PARAM_INVALID', 'data': None}
+2026-03-31 17:06:01,997/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:47]-INFO:response header: {'Server': 'hertz', 'Date': 'Tue, 31 Mar 2026 09:06:00 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '97', 'X-Tt-Logid': '021774947961737fdbddccdcde220020000d92a41840f02f2ea67'}
+2026-03-31 17:06:01,998/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:48]-INFO:response log_id: None
+2026-03-31 17:07:51,270/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:48]-INFO:Server IP: [fdbd:dccd:cde2:2002:0:d92a:4184:f02]
+2026-03-31 17:07:51,272/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:49]-INFO:Server port: 10201
+2026-03-31 17:07:51,272/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:50]-INFO:Server env tags: boe_check_case
+2026-03-31 17:07:51,276/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-03-31 17:07:51,276/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-03-31 17:07:51,276/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-03-31 17:07:51,276/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/list?aadvid=1&req_src=events_manager
+2026-03-31 17:07:51,276/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-03-31 17:07:51,287/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-03-31 17:07:52,061/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_make_request[Line:544]-DEBUG:http://fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201 "GET /i18n/events_manager/v2/api/custom_conversion/web/dataset/list?aadvid=1&req_src=events_manager HTTP/1.1" 401 173
+2026-03-31 17:07:52,062/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:46]-INFO:Response text: {'code': 1400103, 'message': 'unable to access adv(1). err: biz error: code=2901, msg=not any access permission : invalid advertiser', 'starlingKey': 'ADV_NOT_FOUND', 'data': None}
+2026-03-31 17:07:52,062/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:47]-INFO:response header: {'Server': 'hertz', 'Date': 'Tue, 31 Mar 2026 09:07:51 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '173', 'X-Tt-Logid': '021774948071898fdbddccdcde220020000d92a41840f02f36c2d'}
+2026-03-31 17:07:52,063/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:48]-INFO:response log_id: None
+2026-03-31 17:07:52,105/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-03-31 17:07:52,105/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-03-31 17:07:52,105/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-03-31 17:07:52,105/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/list?aadvid=75960823018&req_src=events_manager
+2026-03-31 17:07:52,105/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-03-31 17:07:52,106/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-03-31 17:07:52,970/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_make_request[Line:544]-DEBUG:http://fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201 "GET /i18n/events_manager/v2/api/custom_conversion/web/dataset/list?aadvid=75960823018&req_src=events_manager HTTP/1.1" 200 97
+2026-03-31 17:07:52,972/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:46]-INFO:Response text: {'code': 1400102, 'message': 'page_count: invalid params', 'starlingKey': 'PARAM_INVALID', 'data': None}
+2026-03-31 17:07:52,972/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:47]-INFO:response header: {'Server': 'hertz', 'Date': 'Tue, 31 Mar 2026 09:07:51 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '97', 'X-Tt-Logid': '021774948072801fdbddccdcde220020000d92a41840f0292c1ee'}
+2026-03-31 17:07:52,972/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:48]-INFO:response log_id: None
+2026-03-31 17:12:27,443/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:48]-INFO:Server IP: [fdbd:dccd:cde2:2002:0:d92a:4184:f02]
+2026-03-31 17:12:27,445/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:49]-INFO:Server port: 10201
+2026-03-31 17:12:27,445/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:50]-INFO:Server env tags: boe_check_case
+2026-03-31 17:12:27,451/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-03-31 17:12:27,451/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-03-31 17:12:27,451/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-03-31 17:12:27,452/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/list?aadvid=1&req_src=events_manager
+2026-03-31 17:12:27,452/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-03-31 17:12:27,500/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-03-31 17:12:28,495/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_make_request[Line:544]-DEBUG:http://fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201 "GET /i18n/events_manager/v2/api/custom_conversion/web/dataset/list?aadvid=1&req_src=events_manager HTTP/1.1" 401 173
+2026-03-31 17:12:28,497/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:46]-INFO:Response text: {'code': 1400103, 'message': 'unable to access adv(1). err: biz error: code=2901, msg=not any access permission : invalid advertiser', 'starlingKey': 'ADV_NOT_FOUND', 'data': None}
+2026-03-31 17:12:28,497/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:47]-INFO:response header: {'Server': 'hertz', 'Date': 'Tue, 31 Mar 2026 09:12:27 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '173', 'X-Tt-Logid': '021774948348320fdbddccdcde220020000d92a41840f02ff5712'}
+2026-03-31 17:12:28,498/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:48]-INFO:response log_id: None
+2026-03-31 17:12:28,540/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-03-31 17:12:28,540/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-03-31 17:12:28,540/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-03-31 17:12:28,541/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/list?aadvid=75960823018&req_src=events_manager
+2026-03-31 17:12:28,541/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-03-31 17:12:28,542/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-03-31 17:12:29,260/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_make_request[Line:544]-DEBUG:http://fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201 "GET /i18n/events_manager/v2/api/custom_conversion/web/dataset/list?aadvid=75960823018&req_src=events_manager HTTP/1.1" 200 97
+2026-03-31 17:12:29,262/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:46]-INFO:Response text: {'code': 1400102, 'message': 'page_count: invalid params', 'starlingKey': 'PARAM_INVALID', 'data': None}
+2026-03-31 17:12:29,262/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:47]-INFO:response header: {'Server': 'hertz', 'Date': 'Tue, 31 Mar 2026 09:12:28 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '97', 'X-Tt-Logid': '021774948349096fdbddccdcde220020000d92a41840f02b41926'}
+2026-03-31 17:12:29,262/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:48]-INFO:response log_id: None
+2026-03-31 17:13:42,768/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:48]-INFO:Server IP: [fdbd:dccd:cde2:2002:0:d92a:4184:f02]
+2026-03-31 17:13:42,770/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:49]-INFO:Server port: 10201
+2026-03-31 17:13:42,771/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:50]-INFO:Server env tags: boe_check_case
+2026-03-31 17:13:42,777/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-03-31 17:13:42,778/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-03-31 17:13:42,778/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-03-31 17:13:42,778/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/list?page=1&page_size=10&aadvid=1&req_src=events_manager
+2026-03-31 17:13:42,778/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-03-31 17:13:42,795/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-03-31 17:13:43,604/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_make_request[Line:544]-DEBUG:http://fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201 "GET /i18n/events_manager/v2/api/custom_conversion/web/dataset/list?page=1&page_size=10&aadvid=1&req_src=events_manager HTTP/1.1" 401 173
+2026-03-31 17:13:43,605/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:46]-INFO:Response text: {'code': 1400103, 'message': 'unable to access adv(1). err: biz error: code=2901, msg=not any access permission : invalid advertiser', 'starlingKey': 'ADV_NOT_FOUND', 'data': None}
+2026-03-31 17:13:43,605/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:47]-INFO:response header: {'Server': 'hertz', 'Date': 'Tue, 31 Mar 2026 09:13:43 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '173', 'X-Tt-Logid': '021774948423426fdbddccdcde220020000d92a41840f023a2206'}
+2026-03-31 17:13:43,606/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:48]-INFO:response log_id: None
+2026-03-31 17:13:43,644/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-03-31 17:13:43,644/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-03-31 17:13:43,644/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-03-31 17:13:43,644/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/list?page=1&page_size=10&aadvid=75960823018&req_src=events_manager
+2026-03-31 17:13:43,644/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-03-31 17:13:43,645/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-03-31 17:13:45,085/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_make_request[Line:544]-DEBUG:http://fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201 "GET /i18n/events_manager/v2/api/custom_conversion/web/dataset/list?page=1&page_size=10&aadvid=75960823018&req_src=events_manager HTTP/1.1" 200 1869
+2026-03-31 17:13:45,085/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:46]-INFO:Response text: {'code': 0, 'message': 'OK', 'starlingKey': '', 'data': {'event_source_list': [{'event_source_id': 'C3SJ4CHRIN6FC3DTN750', 'event_source_internal_id': '6987671487956123654', 'event_source_type': 'web', 'event_source_name': ' gg', 'activity_status': 3}, {'event_source_id': 'CCHUR6BC77U9SHR1L1K0', 'event_source_internal_id': '7143814678186033157', 'event_source_type': 'web', 'event_source_name': ',\'"().//`', 'activity_status': 3}, {'event_source_id': 'CHEB5FJC77U0OTTAUR00', 'event_source_internal_id': '7231840549026693126', 'event_source_type': 'web', 'event_source_name': '1111', 'activity_status': 3}, {'event_source_id': 'BTAB1FVCDOF5JCPIMQ2G', 'event_source_internal_id': '6869309666128560133', 'event_source_type': 'web', 'event_source_name': '2020-09-06-6869309013595521037', 'activity_status': 3}, {'event_source_id': 'BTAB3CBL77JUAEV1MTM0', 'event_source_internal_id': '6869310705804247046', 'event_source_type': 'web', 'event_source_name': '2020-09-06-6869310118421331975', 'activity_status': 3}, {'event_source_id': 'BUJQBMUHA425I0H7M600', 'event_source_internal_id': '6892660118123446278', 'event_source_type': 'web', 'event_source_name': '2020-11-8-4-01', 'activity_status': 3}, {'event_source_id': 'BVCRIS75OF6SQ4V68RE0', 'event_source_internal_id': '6906754480805593094', 'event_source_type': 'web', 'event_source_name': '2020-12-16-15-38', 'activity_status': 3}, {'event_source_id': 'BVM1D09PKEIR26ECCNOG', 'event_source_internal_id': '6911919307001774086', 'event_source_type': 'web', 'event_source_name': '2020-12-30-13-56', 'activity_status': 3}, {'event_source_id': 'BV7NR8UUIB6NO1B1HLQG', 'event_source_internal_id': '6903874894149189637', 'event_source_type': 'web', 'event_source_name': '2020-12-8-21-20', 'activity_status': 3}, {'event_source_id': 'BVR6LU9VS0M7E6TFBFE0', 'event_source_internal_id': '6914831899223392262', 'event_source_type': 'web', 'event_source_name': '2021-1-7-9-59', 'activity_status': 3}], 'page': 1, 'pageSize': 10, 'total': 918}}
+2026-03-31 17:13:45,086/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:47]-INFO:response header: {'Server': 'hertz', 'Date': 'Tue, 31 Mar 2026 09:13:44 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '1869', 'X-Tt-Logid': '021774948424204fdbddccdcde220020000d92a41840f0207d17e'}
+2026-03-31 17:13:45,086/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:48]-INFO:response log_id: None
+2026-03-31 17:15:32,412/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:48]-INFO:Server IP: [fdbd:dccd:cde2:2002:0:d92a:4184:f02]
+2026-03-31 17:15:32,414/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:49]-INFO:Server port: 10201
+2026-03-31 17:15:32,414/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:50]-INFO:Server env tags: boe_check_case
+2026-03-31 17:15:32,418/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-03-31 17:15:32,418/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-03-31 17:15:32,418/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-03-31 17:15:32,418/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/list?page=1&page_size=10&aadvid=1&req_src=events_manager
+2026-03-31 17:15:32,418/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-03-31 17:15:32,434/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-03-31 17:15:33,134/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_make_request[Line:544]-DEBUG:http://fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201 "GET /i18n/events_manager/v2/api/custom_conversion/web/dataset/list?page=1&page_size=10&aadvid=1&req_src=events_manager HTTP/1.1" 401 173
+2026-03-31 17:15:33,135/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:46]-INFO:Response text: {'code': 1400103, 'message': 'unable to access adv(1). err: biz error: code=2901, msg=not any access permission : invalid advertiser', 'starlingKey': 'ADV_NOT_FOUND', 'data': None}
+2026-03-31 17:15:33,135/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:47]-INFO:response header: {'Server': 'hertz', 'Date': 'Tue, 31 Mar 2026 09:15:32 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '173', 'X-Tt-Logid': '021774948532957fdbddccdcde220020000d92a41840f02029236'}
+2026-03-31 17:15:33,135/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:48]-INFO:response log_id: None
+2026-03-31 17:15:33,142/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-03-31 17:15:33,142/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-03-31 17:15:33,142/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-03-31 17:15:33,142/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/list?page=1&page_size=10&aadvid=75960823018&req_src=events_manager
+2026-03-31 17:15:33,142/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-03-31 17:15:33,144/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-03-31 17:15:34,532/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_make_request[Line:544]-DEBUG:http://fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201 "GET /i18n/events_manager/v2/api/custom_conversion/web/dataset/list?page=1&page_size=10&aadvid=75960823018&req_src=events_manager HTTP/1.1" 200 1869
+2026-03-31 17:15:34,534/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:46]-INFO:Response text: {'code': 0, 'message': 'OK', 'starlingKey': '', 'data': {'event_source_list': [{'event_source_id': 'C3SJ4CHRIN6FC3DTN750', 'event_source_internal_id': '6987671487956123654', 'event_source_type': 'web', 'event_source_name': ' gg', 'activity_status': 3}, {'event_source_id': 'CCHUR6BC77U9SHR1L1K0', 'event_source_internal_id': '7143814678186033157', 'event_source_type': 'web', 'event_source_name': ',\'"().//`', 'activity_status': 3}, {'event_source_id': 'CHEB5FJC77U0OTTAUR00', 'event_source_internal_id': '7231840549026693126', 'event_source_type': 'web', 'event_source_name': '1111', 'activity_status': 3}, {'event_source_id': 'BTAB1FVCDOF5JCPIMQ2G', 'event_source_internal_id': '6869309666128560133', 'event_source_type': 'web', 'event_source_name': '2020-09-06-6869309013595521037', 'activity_status': 3}, {'event_source_id': 'BTAB3CBL77JUAEV1MTM0', 'event_source_internal_id': '6869310705804247046', 'event_source_type': 'web', 'event_source_name': '2020-09-06-6869310118421331975', 'activity_status': 3}, {'event_source_id': 'BUJQBMUHA425I0H7M600', 'event_source_internal_id': '6892660118123446278', 'event_source_type': 'web', 'event_source_name': '2020-11-8-4-01', 'activity_status': 3}, {'event_source_id': 'BVCRIS75OF6SQ4V68RE0', 'event_source_internal_id': '6906754480805593094', 'event_source_type': 'web', 'event_source_name': '2020-12-16-15-38', 'activity_status': 3}, {'event_source_id': 'BVM1D09PKEIR26ECCNOG', 'event_source_internal_id': '6911919307001774086', 'event_source_type': 'web', 'event_source_name': '2020-12-30-13-56', 'activity_status': 3}, {'event_source_id': 'BV7NR8UUIB6NO1B1HLQG', 'event_source_internal_id': '6903874894149189637', 'event_source_type': 'web', 'event_source_name': '2020-12-8-21-20', 'activity_status': 3}, {'event_source_id': 'BVR6LU9VS0M7E6TFBFE0', 'event_source_internal_id': '6914831899223392262', 'event_source_type': 'web', 'event_source_name': '2021-1-7-9-59', 'activity_status': 3}], 'page': 1, 'pageSize': 10, 'total': 918}}
+2026-03-31 17:15:34,535/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:47]-INFO:response header: {'Server': 'hertz', 'Date': 'Tue, 31 Mar 2026 09:15:34 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '1869', 'X-Tt-Logid': '021774948533962fdbddccdcde220020000d92a41840f0206a460'}
+2026-03-31 17:15:34,535/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:48]-INFO:response log_id: None
+2026-03-31 17:17:09,572/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:48]-INFO:Server IP: [fdbd:dccd:cde2:2002:0:d92a:4184:f02]
+2026-03-31 17:17:09,573/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:49]-INFO:Server port: 10201
+2026-03-31 17:17:09,573/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:50]-INFO:Server env tags: boe_check_case
+2026-03-31 17:17:09,576/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-03-31 17:17:09,576/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-03-31 17:17:09,577/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-03-31 17:17:09,577/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/list?page=1&page_size=10&aadvid=1&req_src=events_manager
+2026-03-31 17:17:09,577/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-03-31 17:17:09,590/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-03-31 17:17:10,439/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_make_request[Line:544]-DEBUG:http://fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201 "GET /i18n/events_manager/v2/api/custom_conversion/web/dataset/list?page=1&page_size=10&aadvid=1&req_src=events_manager HTTP/1.1" 401 173
+2026-03-31 17:17:10,440/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:46]-INFO:Response text: {'code': 1400103, 'message': 'unable to access adv(1). err: biz error: code=2901, msg=not any access permission : invalid advertiser', 'starlingKey': 'ADV_NOT_FOUND', 'data': None}
+2026-03-31 17:17:10,440/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:47]-INFO:response header: {'Server': 'hertz', 'Date': 'Tue, 31 Mar 2026 09:17:10 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '173', 'X-Tt-Logid': '021774948630256fdbddccdcde220020000d92a41840f029c87ae'}
+2026-03-31 17:17:10,440/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:48]-INFO:response log_id: None
+2026-03-31 17:17:10,447/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-03-31 17:17:10,447/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-03-31 17:17:10,447/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-03-31 17:17:10,448/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/list?page=1&page_size=10&aadvid=75960823018&req_src=events_manager
+2026-03-31 17:17:10,448/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-03-31 17:17:10,449/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-03-31 17:17:11,376/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_make_request[Line:544]-DEBUG:http://fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201 "GET /i18n/events_manager/v2/api/custom_conversion/web/dataset/list?page=1&page_size=10&aadvid=75960823018&req_src=events_manager HTTP/1.1" 200 1869
+2026-03-31 17:17:11,376/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:46]-INFO:Response text: {'code': 0, 'message': 'OK', 'starlingKey': '', 'data': {'event_source_list': [{'event_source_id': 'C3SJ4CHRIN6FC3DTN750', 'event_source_internal_id': '6987671487956123654', 'event_source_type': 'web', 'event_source_name': ' gg', 'activity_status': 3}, {'event_source_id': 'CCHUR6BC77U9SHR1L1K0', 'event_source_internal_id': '7143814678186033157', 'event_source_type': 'web', 'event_source_name': ',\'"().//`', 'activity_status': 3}, {'event_source_id': 'CHEB5FJC77U0OTTAUR00', 'event_source_internal_id': '7231840549026693126', 'event_source_type': 'web', 'event_source_name': '1111', 'activity_status': 3}, {'event_source_id': 'BTAB1FVCDOF5JCPIMQ2G', 'event_source_internal_id': '6869309666128560133', 'event_source_type': 'web', 'event_source_name': '2020-09-06-6869309013595521037', 'activity_status': 3}, {'event_source_id': 'BTAB3CBL77JUAEV1MTM0', 'event_source_internal_id': '6869310705804247046', 'event_source_type': 'web', 'event_source_name': '2020-09-06-6869310118421331975', 'activity_status': 3}, {'event_source_id': 'BUJQBMUHA425I0H7M600', 'event_source_internal_id': '6892660118123446278', 'event_source_type': 'web', 'event_source_name': '2020-11-8-4-01', 'activity_status': 3}, {'event_source_id': 'BVCRIS75OF6SQ4V68RE0', 'event_source_internal_id': '6906754480805593094', 'event_source_type': 'web', 'event_source_name': '2020-12-16-15-38', 'activity_status': 3}, {'event_source_id': 'BVM1D09PKEIR26ECCNOG', 'event_source_internal_id': '6911919307001774086', 'event_source_type': 'web', 'event_source_name': '2020-12-30-13-56', 'activity_status': 3}, {'event_source_id': 'BV7NR8UUIB6NO1B1HLQG', 'event_source_internal_id': '6903874894149189637', 'event_source_type': 'web', 'event_source_name': '2020-12-8-21-20', 'activity_status': 3}, {'event_source_id': 'BVR6LU9VS0M7E6TFBFE0', 'event_source_internal_id': '6914831899223392262', 'event_source_type': 'web', 'event_source_name': '2021-1-7-9-59', 'activity_status': 3}], 'page': 1, 'pageSize': 10, 'total': 918}}
+2026-03-31 17:17:11,376/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:47]-INFO:response header: {'Server': 'hertz', 'Date': 'Tue, 31 Mar 2026 09:17:11 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '1869', 'X-Tt-Logid': '021774948630972fdbddccdcde220020000d92a41840f022fb176'}
+2026-03-31 17:17:11,377/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:48]-INFO:response log_id: None
+2026-03-31 17:20:25,694/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:48]-INFO:Server IP: [fdbd:dccd:cde2:2002:0:d92a:4184:f02]
+2026-03-31 17:20:25,695/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:49]-INFO:Server port: 10201
+2026-03-31 17:20:25,695/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:50]-INFO:Server env tags: boe_check_case
+2026-03-31 17:20:25,699/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-03-31 17:20:25,699/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-03-31 17:20:25,699/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-03-31 17:20:25,699/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/list?page=1&page_size=10&aadvid=1&req_src=events_manager
+2026-03-31 17:20:25,700/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-03-31 17:20:25,754/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-03-31 17:20:26,499/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_make_request[Line:544]-DEBUG:http://fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201 "GET /i18n/events_manager/v2/api/custom_conversion/web/dataset/list?page=1&page_size=10&aadvid=1&req_src=events_manager HTTP/1.1" 401 173
+2026-03-31 17:20:26,500/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:47]-INFO:Response text: {
+  "code": 1400103,
+  "message": "unable to access adv(1). err: biz error: code=2901, msg=not any access permission : invalid advertiser",
+  "starlingKey": "ADV_NOT_FOUND",
+  "data": null
+}
+2026-03-31 17:20:26,500/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:48]-INFO:response header: {'Server': 'hertz', 'Date': 'Tue, 31 Mar 2026 09:20:26 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '173', 'X-Tt-Logid': '021774948826289fdbddccdcde220020000d92a41840f02f8d19a'}
+2026-03-31 17:20:26,501/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:49]-INFO:response log_id: None
+2026-03-31 17:20:26,533/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-03-31 17:20:26,533/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-03-31 17:20:26,533/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-03-31 17:20:26,533/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/list?page=1&page_size=10&aadvid=75960823018&req_src=events_manager
+2026-03-31 17:20:26,533/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-03-31 17:20:26,535/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-03-31 17:20:27,602/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_make_request[Line:544]-DEBUG:http://fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201 "GET /i18n/events_manager/v2/api/custom_conversion/web/dataset/list?page=1&page_size=10&aadvid=75960823018&req_src=events_manager HTTP/1.1" 200 1869
+2026-03-31 17:20:27,603/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:47]-INFO:Response text: {
+  "code": 0,
+  "message": "OK",
+  "starlingKey": "",
+  "data": {
+    "event_source_list": [
+      {
+        "event_source_id": "C3SJ4CHRIN6FC3DTN750",
+        "event_source_internal_id": "6987671487956123654",
+        "event_source_type": "web",
+        "event_source_name": " gg",
+        "activity_status": 3
+      },
+      {
+        "event_source_id": "CCHUR6BC77U9SHR1L1K0",
+        "event_source_internal_id": "7143814678186033157",
+        "event_source_type": "web",
+        "event_source_name": ",'\"().//`",
+        "activity_status": 3
+      },
+      {
+        "event_source_id": "CHEB5FJC77U0OTTAUR00",
+        "event_source_internal_id": "7231840549026693126",
+        "event_source_type": "web",
+        "event_source_name": "1111",
+        "activity_status": 3
+      },
+      {
+        "event_source_id": "BTAB1FVCDOF5JCPIMQ2G",
+        "event_source_internal_id": "6869309666128560133",
+        "event_source_type": "web",
+        "event_source_name": "2020-09-06-6869309013595521037",
+        "activity_status": 3
+      },
+      {
+        "event_source_id": "BTAB3CBL77JUAEV1MTM0",
+        "event_source_internal_id": "6869310705804247046",
+        "event_source_type": "web",
+        "event_source_name": "2020-09-06-6869310118421331975",
+        "activity_status": 3
+      },
+      {
+        "event_source_id": "BUJQBMUHA425I0H7M600",
+        "event_source_internal_id": "6892660118123446278",
+        "event_source_type": "web",
+        "event_source_name": "2020-11-8-4-01",
+        "activity_status": 3
+      },
+      {
+        "event_source_id": "BVCRIS75OF6SQ4V68RE0",
+        "event_source_internal_id": "6906754480805593094",
+        "event_source_type": "web",
+        "event_source_name": "2020-12-16-15-38",
+        "activity_status": 3
+      },
+      {
+        "event_source_id": "BVM1D09PKEIR26ECCNOG",
+        "event_source_internal_id": "6911919307001774086",
+        "event_source_type": "web",
+        "event_source_name": "2020-12-30-13-56",
+        "activity_status": 3
+      },
+      {
+        "event_source_id": "BV7NR8UUIB6NO1B1HLQG",
+        "event_source_internal_id": "6903874894149189637",
+        "event_source_type": "web",
+        "event_source_name": "2020-12-8-21-20",
+        "activity_status": 3
+      },
+      {
+        "event_source_id": "BVR6LU9VS0M7E6TFBFE0",
+        "event_source_internal_id": "6914831899223392262",
+        "event_source_type": "web",
+        "event_source_name": "2021-1-7-9-59",
+        "activity_status": 3
+      }
+    ],
+    "page": 1,
+    "pageSize": 10,
+    "total": 918
+  }
+}
+2026-03-31 17:20:27,604/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:48]-INFO:response header: {'Server': 'hertz', 'Date': 'Tue, 31 Mar 2026 09:20:27 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '1869', 'X-Tt-Logid': '021774948827202fdbddccdcde220020000d92a41840f0227dac9'}
+2026-03-31 17:20:27,604/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:49]-INFO:response log_id: None
+2026-03-31 17:29:24,299/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:48]-INFO:Server IP: [fdbd:dccd:cde2:2002:0:d92a:4184:f02]
+2026-03-31 17:29:24,299/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:49]-INFO:Server port: 10201
+2026-03-31 17:29:24,300/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:50]-INFO:Server env tags: boe_check_case
+2026-03-31 17:29:24,303/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-03-31 17:29:24,303/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-03-31 17:29:24,304/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-03-31 17:29:24,304/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/list?page=1&page_size=10&aadvid=1&req_src=events_manager
+2026-03-31 17:29:24,304/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-03-31 17:29:24,329/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-03-31 17:29:25,163/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_make_request[Line:544]-DEBUG:http://fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201 "GET /i18n/events_manager/v2/api/custom_conversion/web/dataset/list?page=1&page_size=10&aadvid=1&req_src=events_manager HTTP/1.1" 401 173
+2026-03-31 17:29:25,164/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:47]-INFO:Response text: {
+  "code": 1400103,
+  "message": "unable to access adv(1). err: biz error: code=2901, msg=not any access permission : invalid advertiser",
+  "starlingKey": "ADV_NOT_FOUND",
+  "data": null
+}
+2026-03-31 17:29:25,164/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:48]-INFO:response header: {'Server': 'hertz', 'Date': 'Tue, 31 Mar 2026 09:29:24 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '173', 'X-Tt-Logid': '021774949364972fdbddccdcde220020000d92a41840f0204e0c0'}
+2026-03-31 17:29:25,164/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:49]-INFO:response log_id: None
+2026-03-31 17:29:25,170/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-03-31 17:29:25,170/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-03-31 17:29:25,170/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-03-31 17:29:25,170/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/list?page=1&page_size=10&aadvid=75960823018&req_src=events_manager
+2026-03-31 17:29:25,171/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-03-31 17:29:25,171/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-03-31 17:29:26,059/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_make_request[Line:544]-DEBUG:http://fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201 "GET /i18n/events_manager/v2/api/custom_conversion/web/dataset/list?page=1&page_size=10&aadvid=75960823018&req_src=events_manager HTTP/1.1" 200 1869
+2026-03-31 17:29:26,060/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:47]-INFO:Response text: {
+  "code": 0,
+  "message": "OK",
+  "starlingKey": "",
+  "data": {
+    "event_source_list": [
+      {
+        "event_source_id": "C3SJ4CHRIN6FC3DTN750",
+        "event_source_internal_id": "6987671487956123654",
+        "event_source_type": "web",
+        "event_source_name": " gg",
+        "activity_status": 3
+      },
+      {
+        "event_source_id": "CCHUR6BC77U9SHR1L1K0",
+        "event_source_internal_id": "7143814678186033157",
+        "event_source_type": "web",
+        "event_source_name": ",'\"().//`",
+        "activity_status": 3
+      },
+      {
+        "event_source_id": "CHEB5FJC77U0OTTAUR00",
+        "event_source_internal_id": "7231840549026693126",
+        "event_source_type": "web",
+        "event_source_name": "1111",
+        "activity_status": 3
+      },
+      {
+        "event_source_id": "BTAB1FVCDOF5JCPIMQ2G",
+        "event_source_internal_id": "6869309666128560133",
+        "event_source_type": "web",
+        "event_source_name": "2020-09-06-6869309013595521037",
+        "activity_status": 3
+      },
+      {
+        "event_source_id": "BTAB3CBL77JUAEV1MTM0",
+        "event_source_internal_id": "6869310705804247046",
+        "event_source_type": "web",
+        "event_source_name": "2020-09-06-6869310118421331975",
+        "activity_status": 3
+      },
+      {
+        "event_source_id": "BUJQBMUHA425I0H7M600",
+        "event_source_internal_id": "6892660118123446278",
+        "event_source_type": "web",
+        "event_source_name": "2020-11-8-4-01",
+        "activity_status": 3
+      },
+      {
+        "event_source_id": "BVCRIS75OF6SQ4V68RE0",
+        "event_source_internal_id": "6906754480805593094",
+        "event_source_type": "web",
+        "event_source_name": "2020-12-16-15-38",
+        "activity_status": 3
+      },
+      {
+        "event_source_id": "BVM1D09PKEIR26ECCNOG",
+        "event_source_internal_id": "6911919307001774086",
+        "event_source_type": "web",
+        "event_source_name": "2020-12-30-13-56",
+        "activity_status": 3
+      },
+      {
+        "event_source_id": "BV7NR8UUIB6NO1B1HLQG",
+        "event_source_internal_id": "6903874894149189637",
+        "event_source_type": "web",
+        "event_source_name": "2020-12-8-21-20",
+        "activity_status": 3
+      },
+      {
+        "event_source_id": "BVR6LU9VS0M7E6TFBFE0",
+        "event_source_internal_id": "6914831899223392262",
+        "event_source_type": "web",
+        "event_source_name": "2021-1-7-9-59",
+        "activity_status": 3
+      }
+    ],
+    "page": 1,
+    "pageSize": 10,
+    "total": 918
+  }
+}
+2026-03-31 17:29:26,060/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:48]-INFO:response header: {'Server': 'hertz', 'Date': 'Tue, 31 Mar 2026 09:29:25 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '1869', 'X-Tt-Logid': '021774949365666fdbddccdcde220020000d92a41840f02341c95'}
+2026-03-31 17:29:26,060/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:49]-INFO:response log_id: None
+2026-03-31 17:29:26,060/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pyquery_sql[Line:69]-INFO:query sql: select * from analytics_pixel where pixel_code=C3SJ4CHRIN6FC3DTN750
+2026-03-31 17:30:39,563/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:48]-INFO:Server IP: [fdbd:dccd:cde2:2002:0:d92a:4184:f02]
+2026-03-31 17:30:39,563/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:49]-INFO:Server port: 10201
+2026-03-31 17:30:39,564/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:50]-INFO:Server env tags: boe_check_case
+2026-03-31 17:30:39,567/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-03-31 17:30:39,568/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-03-31 17:30:39,568/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-03-31 17:30:39,568/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/list?page=1&page_size=10&aadvid=1&req_src=events_manager
+2026-03-31 17:30:39,568/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-03-31 17:30:39,578/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-03-31 17:30:40,381/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_make_request[Line:544]-DEBUG:http://fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201 "GET /i18n/events_manager/v2/api/custom_conversion/web/dataset/list?page=1&page_size=10&aadvid=1&req_src=events_manager HTTP/1.1" 401 173
+2026-03-31 17:30:40,383/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:47]-INFO:Response text: {
+  "code": 1400103,
+  "message": "unable to access adv(1). err: biz error: code=2901, msg=not any access permission : invalid advertiser",
+  "starlingKey": "ADV_NOT_FOUND",
+  "data": null
+}
+2026-03-31 17:30:40,383/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:48]-INFO:response header: {'Server': 'hertz', 'Date': 'Tue, 31 Mar 2026 09:30:39 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '173', 'X-Tt-Logid': '021774949440171fdbddccdcde220020000d92a41840f02600662'}
+2026-03-31 17:30:40,383/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:49]-INFO:response log_id: None
+2026-03-31 17:30:40,390/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-03-31 17:30:40,390/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-03-31 17:30:40,390/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-03-31 17:30:40,390/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/list?page=1&page_size=10&aadvid=75960823018&req_src=events_manager
+2026-03-31 17:30:40,390/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-03-31 17:30:40,392/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-03-31 17:30:41,374/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_make_request[Line:544]-DEBUG:http://fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201 "GET /i18n/events_manager/v2/api/custom_conversion/web/dataset/list?page=1&page_size=10&aadvid=75960823018&req_src=events_manager HTTP/1.1" 200 1869
+2026-03-31 17:30:41,375/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:47]-INFO:Response text: {
+  "code": 0,
+  "message": "OK",
+  "starlingKey": "",
+  "data": {
+    "event_source_list": [
+      {
+        "event_source_id": "C3SJ4CHRIN6FC3DTN750",
+        "event_source_internal_id": "6987671487956123654",
+        "event_source_type": "web",
+        "event_source_name": " gg",
+        "activity_status": 3
+      },
+      {
+        "event_source_id": "CCHUR6BC77U9SHR1L1K0",
+        "event_source_internal_id": "7143814678186033157",
+        "event_source_type": "web",
+        "event_source_name": ",'\"().//`",
+        "activity_status": 3
+      },
+      {
+        "event_source_id": "CHEB5FJC77U0OTTAUR00",
+        "event_source_internal_id": "7231840549026693126",
+        "event_source_type": "web",
+        "event_source_name": "1111",
+        "activity_status": 3
+      },
+      {
+        "event_source_id": "BTAB1FVCDOF5JCPIMQ2G",
+        "event_source_internal_id": "6869309666128560133",
+        "event_source_type": "web",
+        "event_source_name": "2020-09-06-6869309013595521037",
+        "activity_status": 3
+      },
+      {
+        "event_source_id": "BTAB3CBL77JUAEV1MTM0",
+        "event_source_internal_id": "6869310705804247046",
+        "event_source_type": "web",
+        "event_source_name": "2020-09-06-6869310118421331975",
+        "activity_status": 3
+      },
+      {
+        "event_source_id": "BUJQBMUHA425I0H7M600",
+        "event_source_internal_id": "6892660118123446278",
+        "event_source_type": "web",
+        "event_source_name": "2020-11-8-4-01",
+        "activity_status": 3
+      },
+      {
+        "event_source_id": "BVCRIS75OF6SQ4V68RE0",
+        "event_source_internal_id": "6906754480805593094",
+        "event_source_type": "web",
+        "event_source_name": "2020-12-16-15-38",
+        "activity_status": 3
+      },
+      {
+        "event_source_id": "BVM1D09PKEIR26ECCNOG",
+        "event_source_internal_id": "6911919307001774086",
+        "event_source_type": "web",
+        "event_source_name": "2020-12-30-13-56",
+        "activity_status": 3
+      },
+      {
+        "event_source_id": "BV7NR8UUIB6NO1B1HLQG",
+        "event_source_internal_id": "6903874894149189637",
+        "event_source_type": "web",
+        "event_source_name": "2020-12-8-21-20",
+        "activity_status": 3
+      },
+      {
+        "event_source_id": "BVR6LU9VS0M7E6TFBFE0",
+        "event_source_internal_id": "6914831899223392262",
+        "event_source_type": "web",
+        "event_source_name": "2021-1-7-9-59",
+        "activity_status": 3
+      }
+    ],
+    "page": 1,
+    "pageSize": 10,
+    "total": 918
+  }
+}
+2026-03-31 17:30:41,375/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:48]-INFO:response header: {'Server': 'hertz', 'Date': 'Tue, 31 Mar 2026 09:30:40 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '1869', 'X-Tt-Logid': '021774949440986fdbddccdcde220020000d92a41840f0276deef'}
+2026-03-31 17:30:41,375/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:49]-INFO:response log_id: None
+2026-03-31 17:30:41,376/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pyquery_sql[Line:69]-INFO:query sql: select * from analytics_pixel where pixel_code=C3SJ4CHRIN6FC3DTN750
+2026-03-31 17:32:23,296/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:48]-INFO:Server IP: [fdbd:dccd:cde2:2002:0:d92a:4184:f02]
+2026-03-31 17:32:23,298/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:49]-INFO:Server port: 10201
+2026-03-31 17:32:23,298/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:50]-INFO:Server env tags: boe_check_case
+2026-03-31 17:32:23,304/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-03-31 17:32:23,304/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-03-31 17:32:23,304/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-03-31 17:32:23,304/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/list?page=1&page_size=10&aadvid=1&req_src=events_manager
+2026-03-31 17:32:23,304/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-03-31 17:32:23,321/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-03-31 17:32:24,026/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_make_request[Line:544]-DEBUG:http://fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201 "GET /i18n/events_manager/v2/api/custom_conversion/web/dataset/list?page=1&page_size=10&aadvid=1&req_src=events_manager HTTP/1.1" 401 173
+2026-03-31 17:32:24,028/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:47]-INFO:Response text: {
+  "code": 1400103,
+  "message": "unable to access adv(1). err: biz error: code=2901, msg=not any access permission : invalid advertiser",
+  "starlingKey": "ADV_NOT_FOUND",
+  "data": null
+}
+2026-03-31 17:32:24,028/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:48]-INFO:response header: {'Server': 'hertz', 'Date': 'Tue, 31 Mar 2026 09:32:23 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '173', 'X-Tt-Logid': '021774949543833fdbddccdcde220020000d92a41840f02ae249f'}
+2026-03-31 17:32:24,029/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:49]-INFO:response log_id: None
+2026-03-31 17:32:24,040/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-03-31 17:32:24,040/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-03-31 17:32:24,040/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-03-31 17:32:24,040/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/list?page=1&page_size=10&aadvid=75960823018&req_src=events_manager
+2026-03-31 17:32:24,040/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-03-31 17:32:24,043/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-03-31 17:32:25,242/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_make_request[Line:544]-DEBUG:http://fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201 "GET /i18n/events_manager/v2/api/custom_conversion/web/dataset/list?page=1&page_size=10&aadvid=75960823018&req_src=events_manager HTTP/1.1" 200 1869
+2026-03-31 17:32:25,244/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:47]-INFO:Response text: {
+  "code": 0,
+  "message": "OK",
+  "starlingKey": "",
+  "data": {
+    "event_source_list": [
+      {
+        "event_source_id": "C3SJ4CHRIN6FC3DTN750",
+        "event_source_internal_id": "6987671487956123654",
+        "event_source_type": "web",
+        "event_source_name": " gg",
+        "activity_status": 3
+      },
+      {
+        "event_source_id": "CCHUR6BC77U9SHR1L1K0",
+        "event_source_internal_id": "7143814678186033157",
+        "event_source_type": "web",
+        "event_source_name": ",'\"().//`",
+        "activity_status": 3
+      },
+      {
+        "event_source_id": "CHEB5FJC77U0OTTAUR00",
+        "event_source_internal_id": "7231840549026693126",
+        "event_source_type": "web",
+        "event_source_name": "1111",
+        "activity_status": 3
+      },
+      {
+        "event_source_id": "BTAB1FVCDOF5JCPIMQ2G",
+        "event_source_internal_id": "6869309666128560133",
+        "event_source_type": "web",
+        "event_source_name": "2020-09-06-6869309013595521037",
+        "activity_status": 3
+      },
+      {
+        "event_source_id": "BTAB3CBL77JUAEV1MTM0",
+        "event_source_internal_id": "6869310705804247046",
+        "event_source_type": "web",
+        "event_source_name": "2020-09-06-6869310118421331975",
+        "activity_status": 3
+      },
+      {
+        "event_source_id": "BUJQBMUHA425I0H7M600",
+        "event_source_internal_id": "6892660118123446278",
+        "event_source_type": "web",
+        "event_source_name": "2020-11-8-4-01",
+        "activity_status": 3
+      },
+      {
+        "event_source_id": "BVCRIS75OF6SQ4V68RE0",
+        "event_source_internal_id": "6906754480805593094",
+        "event_source_type": "web",
+        "event_source_name": "2020-12-16-15-38",
+        "activity_status": 3
+      },
+      {
+        "event_source_id": "BVM1D09PKEIR26ECCNOG",
+        "event_source_internal_id": "6911919307001774086",
+        "event_source_type": "web",
+        "event_source_name": "2020-12-30-13-56",
+        "activity_status": 3
+      },
+      {
+        "event_source_id": "BV7NR8UUIB6NO1B1HLQG",
+        "event_source_internal_id": "6903874894149189637",
+        "event_source_type": "web",
+        "event_source_name": "2020-12-8-21-20",
+        "activity_status": 3
+      },
+      {
+        "event_source_id": "BVR6LU9VS0M7E6TFBFE0",
+        "event_source_internal_id": "6914831899223392262",
+        "event_source_type": "web",
+        "event_source_name": "2021-1-7-9-59",
+        "activity_status": 3
+      }
+    ],
+    "page": 1,
+    "pageSize": 10,
+    "total": 918
+  }
+}
+2026-03-31 17:32:25,244/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:48]-INFO:response header: {'Server': 'hertz', 'Date': 'Tue, 31 Mar 2026 09:32:24 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '1869', 'X-Tt-Logid': '021774949544775fdbddccdcde220020000d92a41840f0255fa78'}
+2026-03-31 17:32:25,245/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:49]-INFO:response log_id: None
+2026-03-31 17:32:25,245/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pyquery_sql[Line:69]-INFO:query sql: select * from analytics_pixel where pixel_code='C3SJ4CHRIN6FC3DTN750'
+2026-03-31 17:32:25,885/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pyquery_sql[Line:71]-INFO:result sql: [{'id': 6987671487956123654, 'pixel_code': 'C3SJ4CHRIN6FC3DTN750', 'name': ' gg', 'page_url': '', 'category': 5, 'lagacy': 0, 'deleted_at': None, 'created_at': datetime.datetime(2021, 7, 22, 16, 54, 10, 200000), 'updated_at': datetime.datetime(2021, 7, 22, 16, 54, 13), 'extra': '{"advanced_match": {"matchByEmail": true, "matchByPhone": true}}', 'modified_at': None, 'version': 0, 'reserved_for_partner': 34, 'event_setup_mode': 1, 'asset_id': 0}]
+2026-03-31 17:33:23,328/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:48]-INFO:Server IP: [fdbd:dccd:cde2:2002:0:d92a:4184:f02]
+2026-03-31 17:33:23,330/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:49]-INFO:Server port: 10201
+2026-03-31 17:33:23,330/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:50]-INFO:Server env tags: boe_check_case
+2026-03-31 17:33:23,336/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-03-31 17:33:23,337/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-03-31 17:33:23,337/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-03-31 17:33:23,337/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/list?page=1&page_size=10&aadvid=1&req_src=events_manager
+2026-03-31 17:33:23,337/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-03-31 17:33:23,351/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-03-31 17:33:24,055/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_make_request[Line:544]-DEBUG:http://fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201 "GET /i18n/events_manager/v2/api/custom_conversion/web/dataset/list?page=1&page_size=10&aadvid=1&req_src=events_manager HTTP/1.1" 401 173
+2026-03-31 17:33:24,056/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:47]-INFO:Response text: {
+  "code": 1400103,
+  "message": "unable to access adv(1). err: biz error: code=2901, msg=not any access permission : invalid advertiser",
+  "starlingKey": "ADV_NOT_FOUND",
+  "data": null
+}
+2026-03-31 17:33:24,056/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:48]-INFO:response header: {'Server': 'hertz', 'Date': 'Tue, 31 Mar 2026 09:33:23 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '173', 'X-Tt-Logid': '021774949603861fdbddccdcde220020000d92a41840f02d77d8d'}
+2026-03-31 17:33:24,056/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:49]-INFO:response log_id: None
+2026-03-31 17:33:24,065/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-03-31 17:33:24,065/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-03-31 17:33:24,065/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-03-31 17:33:24,065/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/list?page=1&page_size=10&aadvid=75960823018&req_src=events_manager
+2026-03-31 17:33:24,065/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-03-31 17:33:24,067/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-03-31 17:33:25,351/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_make_request[Line:544]-DEBUG:http://fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201 "GET /i18n/events_manager/v2/api/custom_conversion/web/dataset/list?page=1&page_size=10&aadvid=75960823018&req_src=events_manager HTTP/1.1" 200 1869
+2026-03-31 17:33:25,354/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:47]-INFO:Response text: {
+  "code": 0,
+  "message": "OK",
+  "starlingKey": "",
+  "data": {
+    "event_source_list": [
+      {
+        "event_source_id": "C3SJ4CHRIN6FC3DTN750",
+        "event_source_internal_id": "6987671487956123654",
+        "event_source_type": "web",
+        "event_source_name": " gg",
+        "activity_status": 3
+      },
+      {
+        "event_source_id": "CCHUR6BC77U9SHR1L1K0",
+        "event_source_internal_id": "7143814678186033157",
+        "event_source_type": "web",
+        "event_source_name": ",'\"().//`",
+        "activity_status": 3
+      },
+      {
+        "event_source_id": "CHEB5FJC77U0OTTAUR00",
+        "event_source_internal_id": "7231840549026693126",
+        "event_source_type": "web",
+        "event_source_name": "1111",
+        "activity_status": 3
+      },
+      {
+        "event_source_id": "BTAB1FVCDOF5JCPIMQ2G",
+        "event_source_internal_id": "6869309666128560133",
+        "event_source_type": "web",
+        "event_source_name": "2020-09-06-6869309013595521037",
+        "activity_status": 3
+      },
+      {
+        "event_source_id": "BTAB3CBL77JUAEV1MTM0",
+        "event_source_internal_id": "6869310705804247046",
+        "event_source_type": "web",
+        "event_source_name": "2020-09-06-6869310118421331975",
+        "activity_status": 3
+      },
+      {
+        "event_source_id": "BUJQBMUHA425I0H7M600",
+        "event_source_internal_id": "6892660118123446278",
+        "event_source_type": "web",
+        "event_source_name": "2020-11-8-4-01",
+        "activity_status": 3
+      },
+      {
+        "event_source_id": "BVCRIS75OF6SQ4V68RE0",
+        "event_source_internal_id": "6906754480805593094",
+        "event_source_type": "web",
+        "event_source_name": "2020-12-16-15-38",
+        "activity_status": 3
+      },
+      {
+        "event_source_id": "BVM1D09PKEIR26ECCNOG",
+        "event_source_internal_id": "6911919307001774086",
+        "event_source_type": "web",
+        "event_source_name": "2020-12-30-13-56",
+        "activity_status": 3
+      },
+      {
+        "event_source_id": "BV7NR8UUIB6NO1B1HLQG",
+        "event_source_internal_id": "6903874894149189637",
+        "event_source_type": "web",
+        "event_source_name": "2020-12-8-21-20",
+        "activity_status": 3
+      },
+      {
+        "event_source_id": "BVR6LU9VS0M7E6TFBFE0",
+        "event_source_internal_id": "6914831899223392262",
+        "event_source_type": "web",
+        "event_source_name": "2021-1-7-9-59",
+        "activity_status": 3
+      }
+    ],
+    "page": 1,
+    "pageSize": 10,
+    "total": 918
+  }
+}
+2026-03-31 17:33:25,355/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:48]-INFO:response header: {'Server': 'hertz', 'Date': 'Tue, 31 Mar 2026 09:33:24 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '1869', 'X-Tt-Logid': '021774949604606fdbddccdcde220020000d92a41840f02c8f4f6'}
+2026-03-31 17:33:25,356/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:49]-INFO:response log_id: None
+2026-03-31 17:33:25,356/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pyquery_sql[Line:69]-INFO:query sql: select * from analytics_pixel where pixel_code='C3SJ4CHRIN6FC3DTN750'
+2026-03-31 17:33:26,067/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pyquery_sql[Line:71]-INFO:result sql: [{'id': 6987671487956123654, 'pixel_code': 'C3SJ4CHRIN6FC3DTN750', 'name': ' gg', 'page_url': '', 'category': 5, 'lagacy': 0, 'deleted_at': None, 'created_at': datetime.datetime(2021, 7, 22, 16, 54, 10, 200000), 'updated_at': datetime.datetime(2021, 7, 22, 16, 54, 13), 'extra': '{"advanced_match": {"matchByEmail": true, "matchByPhone": true}}', 'modified_at': None, 'version': 0, 'reserved_for_partner': 34, 'event_setup_mode': 1, 'asset_id': 0}]

@@ -1,0 +1,18 @@
+[32mINFO    [0m root:conftest.py:48 Server IP: [fdbd:dccd:cde2:2002:0:d92a:4184:f02]
+[32mINFO    [0m root:conftest.py:49 Server port: 10201
+[32mINFO    [0m root:conftest.py:50 Server env tags: boe_check_case
+[32mINFO    [0m root:conftest.py:34 Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+[32mINFO    [0m root:conftest.py:35 Request body: None
+[32mINFO    [0m root:conftest.py:36 Request method: GET
+[32mINFO    [0m root:conftest.py:37 Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/list?page=1&page_size=10&aadvid=1&req_src=events_manager
+[32mINFO    [0m root:conftest.py:38 Request request_body: None
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:241 Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:544 http://fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201 "GET /i18n/events_manager/v2/api/custom_conversion/web/dataset/list?page=1&page_size=10&aadvid=1&req_src=events_manager HTTP/1.1" 401 173
+[32mINFO    [0m root:conftest.py:47 Response text: {
+  "code": 1400103,
+  "message": "unable to access adv(1). err: biz error: code=2901, msg=not any access permission : invalid advertiser",
+  "starlingKey": "ADV_NOT_FOUND",
+  "data": null
+}
+[32mINFO    [0m root:conftest.py:48 response header: {'Server': 'hertz', 'Date': 'Tue, 31 Mar 2026 09:33:23 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '173', 'X-Tt-Logid': '021774949603861fdbddccdcde220020000d92a41840f02d77d8d'}
+[32mINFO    [0m root:conftest.py:49 response log_id: None
