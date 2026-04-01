@@ -1457,3 +1457,202 @@
 2026-04-01 14:24:58,700/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/list?page=1&page_size=10&aadvid=2&req_src=events_manager
 2026-04-01 14:24:58,700/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
 2026-04-01 14:24:58,703/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-04-01 14:36:18,518/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:41]-INFO:Server IP: [fdbd:dccd:cde2:2002:0:d92a:4184:f02]
+2026-04-01 14:36:18,520/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:42]-INFO:Server port: 10201
+2026-04-01 14:36:18,521/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:43]-INFO:Server env tags: boe_check_case
+2026-04-01 14:36:18,527/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-04-01 14:36:18,527/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-04-01 14:36:18,527/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-04-01 14:36:18,527/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/list?page=1&page_size=10&aadvid=1&req_src=events_manager
+2026-04-01 14:36:18,528/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-04-01 14:36:18,539/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-04-01 14:36:20,014/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-04-01 14:36:20,014/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-04-01 14:36:20,015/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-04-01 14:36:20,015/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/list?page=1&page_size=10&aadvid=1&req_src=events_manager
+2026-04-01 14:36:20,015/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-04-01 14:36:20,017/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-04-01 14:36:21,641/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-04-01 14:36:21,642/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-04-01 14:36:21,642/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-04-01 14:36:21,642/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/list?page=1&page_size=10&aadvid=1&req_src=events_manager
+2026-04-01 14:36:21,642/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-04-01 14:36:21,645/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-04-01 14:36:23,090/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-04-01 14:36:23,090/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-04-01 14:36:23,090/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-04-01 14:36:23,090/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/list?page=1&page_size=10&aadvid=1&req_src=events_manager
+2026-04-01 14:36:23,090/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-04-01 14:36:23,093/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-04-01 14:36:23,518/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-04-01 14:36:23,518/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-04-01 14:36:23,518/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-04-01 14:36:23,518/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/list?page=1&page_size=10&aadvid=2&req_src=events_manager
+2026-04-01 14:36:23,518/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-04-01 14:36:23,519/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-04-01 14:36:24,948/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-04-01 14:36:24,949/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-04-01 14:36:24,949/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-04-01 14:36:24,949/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/list?page=1&page_size=10&aadvid=2&req_src=events_manager
+2026-04-01 14:36:24,949/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-04-01 14:36:24,952/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-04-01 14:36:26,477/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-04-01 14:36:26,478/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-04-01 14:36:26,478/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-04-01 14:36:26,478/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/list?page=1&page_size=10&aadvid=2&req_src=events_manager
+2026-04-01 14:36:26,479/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-04-01 14:36:26,481/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-04-01 14:36:27,933/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-04-01 14:36:27,934/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-04-01 14:36:27,934/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-04-01 14:36:27,934/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/list?page=1&page_size=10&aadvid=2&req_src=events_manager
+2026-04-01 14:36:27,934/Users/bytedance/PycharmProjects/pytest_learn/measurement/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-04-01 14:36:27,937/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-04-01 16:47:59,998/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:43]-INFO:Server IP: [fdbd:dccd:cde2:2002:0:d92a:4184:f02]
+2026-04-01 16:48:00,000/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:44]-INFO:Server port: 10201
+2026-04-01 16:48:00,006/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:45]-INFO:Server env tags: boe_check_case
+2026-04-01 16:48:00,010/Users/bytedance/PycharmProjects/pytest_learn/api/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-04-01 16:48:00,010/Users/bytedance/PycharmProjects/pytest_learn/api/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-04-01 16:48:00,010/Users/bytedance/PycharmProjects/pytest_learn/api/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-04-01 16:48:00,011/Users/bytedance/PycharmProjects/pytest_learn/api/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/list?page=1&page_size=10&aadvid=1&req_src=events_manager
+2026-04-01 16:48:00,011/Users/bytedance/PycharmProjects/pytest_learn/api/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-04-01 16:48:00,027/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-04-01 16:48:01,531/Users/bytedance/PycharmProjects/pytest_learn/api/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-04-01 16:48:01,532/Users/bytedance/PycharmProjects/pytest_learn/api/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-04-01 16:48:01,532/Users/bytedance/PycharmProjects/pytest_learn/api/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-04-01 16:48:01,532/Users/bytedance/PycharmProjects/pytest_learn/api/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/list?page=1&page_size=10&aadvid=1&req_src=events_manager
+2026-04-01 16:48:01,532/Users/bytedance/PycharmProjects/pytest_learn/api/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-04-01 16:48:01,533/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-04-01 16:48:02,963/Users/bytedance/PycharmProjects/pytest_learn/api/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-04-01 16:48:02,963/Users/bytedance/PycharmProjects/pytest_learn/api/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-04-01 16:48:02,964/Users/bytedance/PycharmProjects/pytest_learn/api/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-04-01 16:48:02,964/Users/bytedance/PycharmProjects/pytest_learn/api/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/list?page=1&page_size=10&aadvid=1&req_src=events_manager
+2026-04-01 16:48:02,964/Users/bytedance/PycharmProjects/pytest_learn/api/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-04-01 16:48:02,966/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-04-01 16:48:04,395/Users/bytedance/PycharmProjects/pytest_learn/api/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-04-01 16:48:04,396/Users/bytedance/PycharmProjects/pytest_learn/api/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-04-01 16:48:04,396/Users/bytedance/PycharmProjects/pytest_learn/api/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-04-01 16:48:04,396/Users/bytedance/PycharmProjects/pytest_learn/api/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/list?page=1&page_size=10&aadvid=1&req_src=events_manager
+2026-04-01 16:48:04,396/Users/bytedance/PycharmProjects/pytest_learn/api/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-04-01 16:48:04,398/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-04-01 16:48:04,787/Users/bytedance/PycharmProjects/pytest_learn/api/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-04-01 16:48:04,787/Users/bytedance/PycharmProjects/pytest_learn/api/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-04-01 16:48:04,787/Users/bytedance/PycharmProjects/pytest_learn/api/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-04-01 16:48:04,787/Users/bytedance/PycharmProjects/pytest_learn/api/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/list?page=1&page_size=10&aadvid=2&req_src=events_manager
+2026-04-01 16:48:04,787/Users/bytedance/PycharmProjects/pytest_learn/api/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-04-01 16:48:04,788/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-04-01 16:48:06,211/Users/bytedance/PycharmProjects/pytest_learn/api/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-04-01 16:48:06,211/Users/bytedance/PycharmProjects/pytest_learn/api/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-04-01 16:48:06,211/Users/bytedance/PycharmProjects/pytest_learn/api/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-04-01 16:48:06,211/Users/bytedance/PycharmProjects/pytest_learn/api/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/list?page=1&page_size=10&aadvid=2&req_src=events_manager
+2026-04-01 16:48:06,211/Users/bytedance/PycharmProjects/pytest_learn/api/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-04-01 16:48:06,213/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-04-01 16:48:07,635/Users/bytedance/PycharmProjects/pytest_learn/api/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-04-01 16:48:07,635/Users/bytedance/PycharmProjects/pytest_learn/api/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-04-01 16:48:07,635/Users/bytedance/PycharmProjects/pytest_learn/api/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-04-01 16:48:07,635/Users/bytedance/PycharmProjects/pytest_learn/api/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/list?page=1&page_size=10&aadvid=2&req_src=events_manager
+2026-04-01 16:48:07,635/Users/bytedance/PycharmProjects/pytest_learn/api/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-04-01 16:48:07,637/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-04-01 16:48:09,064/Users/bytedance/PycharmProjects/pytest_learn/api/events_manager/conftest.pyconftest.pysend_request[Line:34]-INFO:Request headers: {'host': 'boei18n-ads.byteoversea.net', 'Cookie': 'sid_tt_ads=6a2f4717f533f83c73bd2c7337b0a8a9; csrftoken=wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-csrftoken': 'wkr3zGNgh1pZWOLQgZCtUOnuVLEiwU62', 'x-tt-env': 'boe_check_case'}
+2026-04-01 16:48:09,064/Users/bytedance/PycharmProjects/pytest_learn/api/events_manager/conftest.pyconftest.pysend_request[Line:35]-INFO:Request body: None
+2026-04-01 16:48:09,064/Users/bytedance/PycharmProjects/pytest_learn/api/events_manager/conftest.pyconftest.pysend_request[Line:36]-INFO:Request method: GET
+2026-04-01 16:48:09,064/Users/bytedance/PycharmProjects/pytest_learn/api/events_manager/conftest.pyconftest.pysend_request[Line:37]-INFO:Request url: http://[fdbd:dccd:cde2:2002:0:d92a:4184:f02]:10201/i18n/events_manager/v2/api/custom_conversion/web/dataset/list?page=1&page_size=10&aadvid=2&req_src=events_manager
+2026-04-01 16:48:09,064/Users/bytedance/PycharmProjects/pytest_learn/api/events_manager/conftest.pyconftest.pysend_request[Line:38]-INFO:Request request_body: None
+2026-04-01 16:48:09,066/Users/bytedance/PycharmProjects/pytest_learn/.venv/lib/python3.9/site-packages/urllib3/connectionpool.pyconnectionpool.py_new_conn[Line:241]-DEBUG:Starting new HTTP connection (1): fdbd:dccd:cde2:2002:0:d92a:4184:f02:10201
+2026-04-01 16:49:50,538/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:43]-INFO:Server IP: 127.0.0.1
+2026-04-01 16:49:50,540/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:44]-INFO:Server port: 3306
+2026-04-01 16:49:50,540/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:45]-INFO:Server env tags: prod
+2026-04-01 16:49:50,541/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/asyncio/selector_events.pyselector_events.py__init__[Line:59]-DEBUG:Using selector: KqueueSelector
+2026-04-01 16:53:38,162/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:43]-INFO:Server IP: 127.0.0.1
+2026-04-01 16:53:38,163/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:44]-INFO:Server port: 3306
+2026-04-01 16:53:38,164/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:45]-INFO:Server env tags: prod
+2026-04-01 16:53:38,164/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/asyncio/selector_events.pyselector_events.py__init__[Line:59]-DEBUG:Using selector: KqueueSelector
+2026-04-01 16:57:24,352/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:43]-INFO:Server IP: 127.0.0.1
+2026-04-01 16:57:24,354/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:44]-INFO:Server port: 3306
+2026-04-01 16:57:24,354/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:45]-INFO:Server env tags: prod
+2026-04-01 16:57:24,355/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/asyncio/selector_events.pyselector_events.py__init__[Line:59]-DEBUG:Using selector: KqueueSelector
+2026-04-01 17:01:46,675/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:43]-INFO:Server IP: 127.0.0.1
+2026-04-01 17:01:46,677/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:44]-INFO:Server port: 3306
+2026-04-01 17:01:46,677/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:45]-INFO:Server env tags: prod
+2026-04-01 17:01:46,678/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/asyncio/selector_events.pyselector_events.py__init__[Line:59]-DEBUG:Using selector: KqueueSelector
+2026-04-01 17:03:13,768/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:43]-INFO:Server IP: 127.0.0.1
+2026-04-01 17:03:13,770/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:44]-INFO:Server port: 3306
+2026-04-01 17:03:13,770/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:45]-INFO:Server env tags: prod
+2026-04-01 17:03:13,771/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/asyncio/selector_events.pyselector_events.py__init__[Line:59]-DEBUG:Using selector: KqueueSelector
+2026-04-01 17:05:39,212/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:43]-INFO:Server IP: 127.0.0.1
+2026-04-01 17:05:39,213/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:44]-INFO:Server port: 3306
+2026-04-01 17:05:39,213/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:45]-INFO:Server env tags: prod
+2026-04-01 17:05:39,214/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/asyncio/selector_events.pyselector_events.py__init__[Line:59]-DEBUG:Using selector: KqueueSelector
+2026-04-01 17:10:34,343/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:43]-INFO:Server IP: 127.0.0.1
+2026-04-01 17:10:34,345/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:44]-INFO:Server port: 3306
+2026-04-01 17:10:34,345/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:45]-INFO:Server env tags: prod
+2026-04-01 17:10:34,346/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/asyncio/selector_events.pyselector_events.py__init__[Line:59]-DEBUG:Using selector: KqueueSelector
+2026-04-01 17:15:35,210/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:43]-INFO:Server IP: 127.0.0.1
+2026-04-01 17:15:35,211/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:44]-INFO:Server port: 3306
+2026-04-01 17:15:35,212/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:45]-INFO:Server env tags: prod
+2026-04-01 17:15:35,212/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/asyncio/selector_events.pyselector_events.py__init__[Line:59]-DEBUG:Using selector: KqueueSelector
+2026-04-01 17:20:19,427/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:43]-INFO:Server IP: 127.0.0.1
+2026-04-01 17:20:19,429/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:44]-INFO:Server port: 3306
+2026-04-01 17:20:19,429/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:45]-INFO:Server env tags: prod
+2026-04-01 17:20:19,430/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/asyncio/selector_events.pyselector_events.py__init__[Line:59]-DEBUG:Using selector: KqueueSelector
+2026-04-01 17:23:04,885/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:43]-INFO:Server IP: 127.0.0.1
+2026-04-01 17:23:04,887/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:44]-INFO:Server port: 3306
+2026-04-01 17:23:04,888/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:45]-INFO:Server env tags: prod
+2026-04-01 17:23:04,889/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/asyncio/selector_events.pyselector_events.py__init__[Line:59]-DEBUG:Using selector: KqueueSelector
+2026-04-01 17:28:00,773/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:43]-INFO:Server IP: 127.0.0.1
+2026-04-01 17:28:00,776/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:44]-INFO:Server port: 3306
+2026-04-01 17:28:00,776/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:45]-INFO:Server env tags: prod
+2026-04-01 17:28:00,777/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/asyncio/selector_events.pyselector_events.py__init__[Line:59]-DEBUG:Using selector: KqueueSelector
+2026-04-01 17:31:03,427/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:43]-INFO:Server IP: 127.0.0.1
+2026-04-01 17:31:03,429/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:44]-INFO:Server port: 3306
+2026-04-01 17:31:03,429/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:45]-INFO:Server env tags: prod
+2026-04-01 17:31:03,431/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/asyncio/selector_events.pyselector_events.py__init__[Line:59]-DEBUG:Using selector: KqueueSelector
+2026-04-01 17:32:45,797/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:43]-INFO:Server IP: 127.0.0.1
+2026-04-01 17:32:45,798/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:44]-INFO:Server port: 3306
+2026-04-01 17:32:45,799/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:45]-INFO:Server env tags: prod
+2026-04-01 17:32:45,799/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/asyncio/selector_events.pyselector_events.py__init__[Line:59]-DEBUG:Using selector: KqueueSelector
+2026-04-01 17:34:33,373/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:43]-INFO:Server IP: 127.0.0.1
+2026-04-01 17:34:33,374/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:44]-INFO:Server port: 3306
+2026-04-01 17:34:33,375/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:45]-INFO:Server env tags: prod
+2026-04-01 17:34:33,376/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/asyncio/selector_events.pyselector_events.py__init__[Line:59]-DEBUG:Using selector: KqueueSelector
+2026-04-01 17:37:18,035/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:43]-INFO:Server IP: 127.0.0.1
+2026-04-01 17:37:18,038/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:44]-INFO:Server port: 3306
+2026-04-01 17:37:18,039/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:45]-INFO:Server env tags: prod
+2026-04-01 17:37:18,040/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/asyncio/selector_events.pyselector_events.py__init__[Line:59]-DEBUG:Using selector: KqueueSelector
+2026-04-01 17:39:16,734/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:43]-INFO:Server IP: 127.0.0.1
+2026-04-01 17:39:16,736/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:44]-INFO:Server port: 3306
+2026-04-01 17:39:16,736/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:45]-INFO:Server env tags: prod
+2026-04-01 17:39:16,737/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/asyncio/selector_events.pyselector_events.py__init__[Line:59]-DEBUG:Using selector: KqueueSelector
+2026-04-01 17:39:55,017/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:43]-INFO:Server IP: 127.0.0.1
+2026-04-01 17:39:55,018/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:44]-INFO:Server port: 3306
+2026-04-01 17:39:55,018/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:45]-INFO:Server env tags: prod
+2026-04-01 17:39:55,019/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/asyncio/selector_events.pyselector_events.py__init__[Line:59]-DEBUG:Using selector: KqueueSelector
+2026-04-01 17:42:02,650/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:43]-INFO:Server IP: 127.0.0.1
+2026-04-01 17:42:02,651/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:44]-INFO:Server port: 3306
+2026-04-01 17:42:02,652/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:45]-INFO:Server env tags: prod
+2026-04-01 17:42:02,653/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/asyncio/selector_events.pyselector_events.py__init__[Line:59]-DEBUG:Using selector: KqueueSelector
+2026-04-01 17:42:39,934/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:43]-INFO:Server IP: 127.0.0.1
+2026-04-01 17:42:39,935/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:44]-INFO:Server port: 3306
+2026-04-01 17:42:39,935/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:45]-INFO:Server env tags: prod
+2026-04-01 17:42:39,936/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/asyncio/selector_events.pyselector_events.py__init__[Line:59]-DEBUG:Using selector: KqueueSelector
+2026-04-01 17:46:03,570/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:43]-INFO:Server IP: 127.0.0.1
+2026-04-01 17:46:03,571/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:44]-INFO:Server port: 3306
+2026-04-01 17:46:03,572/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:45]-INFO:Server env tags: prod
+2026-04-01 17:46:03,573/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/asyncio/selector_events.pyselector_events.py__init__[Line:59]-DEBUG:Using selector: KqueueSelector
+2026-04-01 17:48:23,327/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:43]-INFO:Server IP: 127.0.0.1
+2026-04-01 17:48:23,328/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:44]-INFO:Server port: 3306
+2026-04-01 17:48:23,329/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:45]-INFO:Server env tags: prod
+2026-04-01 17:48:23,331/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/asyncio/selector_events.pyselector_events.py__init__[Line:59]-DEBUG:Using selector: KqueueSelector
+2026-04-01 17:49:04,713/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:43]-INFO:Server IP: 127.0.0.1
+2026-04-01 17:49:04,714/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:44]-INFO:Server port: 3306
+2026-04-01 17:49:04,714/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:45]-INFO:Server env tags: prod
+2026-04-01 17:49:04,714/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/asyncio/selector_events.pyselector_events.py__init__[Line:59]-DEBUG:Using selector: KqueueSelector
+2026-04-01 17:51:24,239/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:43]-INFO:Server IP: 127.0.0.1
+2026-04-01 17:51:24,241/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:44]-INFO:Server port: 3306
+2026-04-01 17:51:24,241/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:45]-INFO:Server env tags: prod
+2026-04-01 17:51:24,243/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/asyncio/selector_events.pyselector_events.py__init__[Line:59]-DEBUG:Using selector: KqueueSelector
+2026-04-01 17:54:29,333/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:43]-INFO:Server IP: 127.0.0.1
+2026-04-01 17:54:29,333/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:44]-INFO:Server port: 3306
+2026-04-01 17:54:29,333/Users/bytedance/PycharmProjects/pytest_learn/conftest.pyconftest.pyserver_ip_port[Line:45]-INFO:Server env tags: prod
+2026-04-01 17:54:29,334/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/asyncio/selector_events.pyselector_events.py__init__[Line:59]-DEBUG:Using selector: KqueueSelector
+2026-04-01 18:02:22,893/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/asyncio/selector_events.pyselector_events.py__init__[Line:59]-DEBUG:Using selector: KqueueSelector
