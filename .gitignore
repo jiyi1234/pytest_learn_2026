@@ -3,3 +3,5 @@ __pycache__/
 *.pyc
 .allure-report
 .allure-results
+tests.log
+constant.py

@@ -1,7 +1,7 @@
 import pytest
 import requests
 import json
-from measurement.events_manager.constant import request_header
+from constant import request_header
 from conftest import log
 
 @pytest.fixture(scope="function")
