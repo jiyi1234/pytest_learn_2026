@@ -9,11 +9,11 @@ import pymysql
 import ipaddress
 
 db = {
-    "host": "",
+    "host": "fdbd:dccd:cde2:2002:0:7bf1:b55d:62ec",
     "port": 3306,
-    "user": "",
-    "password": "",
-    "database": ""
+    "user": "ad_meteor_i18_w",
+    "password": "8TzlqnVNcOPacAc_T6qvEl94sUTSNwNf",
+    "database": "ad_meteor_i18n_qa"
 }
 
 logging.basicConfig(filename='tests.log', filemode='a', level=logging.DEBUG,

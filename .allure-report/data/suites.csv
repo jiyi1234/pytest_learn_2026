@@ -1,3 +1,0 @@
-"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","332","test_custom_conversion_list_01[1]","measurement.events_manager","2026-04-01","broken","2026-04-01","TestCustomConversionList","test_create_pixel","",""
-"","522","test_custom_conversion_list_01[2]","measurement.events_manager","2026-04-01","broken","2026-04-01","TestCustomConversionList","test_create_pixel","",""
