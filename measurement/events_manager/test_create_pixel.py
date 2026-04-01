@@ -13,9 +13,18 @@ class TestCustomConversionList:
             code = resp_text["data"]["event_source_list"][0]["event_source_id"]
             result = pixel_func.query_sql(code=str(code))
             assert len(result) == 1
-            assert result[0]["id"] == 6987671487956123654
+            assert result[0]["id"] == 1
         else:
             assert resp.status_code == 401
             assert resp_text["code"] == 1400103
+
+    @pytest.mark.forppe
+    @pytest.mark.parametrize("aadvid",[1,2])
+    def test_custom_conversion_list_01(self, pixel_func, aadvid):
+        url = "web/dataset/list"
+        resp, resp_text = pixel_func.send_request(url=url,
+                                                  aadvid=aadvid)
+        assert resp.status_code == 401
+        assert resp_text["code"] == 1400103
 
 

@@ -1,3 +1,3 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","722","test_custom_conversion_list[1]","measurement.events_manager","2026-03-31","passed","2026-03-31","TestCustomConversionList","test_create_pixel","",""
-"","2005","test_custom_conversion_list[75960823018]","measurement.events_manager","2026-03-31","passed","2026-03-31","TestCustomConversionList","test_create_pixel","",""
+"","332","test_custom_conversion_list_01[1]","measurement.events_manager","2026-04-01","broken","2026-04-01","TestCustomConversionList","test_create_pixel","",""
+"","522","test_custom_conversion_list_01[2]","measurement.events_manager","2026-04-01","broken","2026-04-01","TestCustomConversionList","test_create_pixel","",""
